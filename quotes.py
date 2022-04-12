@@ -17,6 +17,7 @@ def get_soup(filename, website):
         website_file.close()
 
     website_file = open(filename)
+    print("soup created")
     return bs4.BeautifulSoup(website_file, 'lxml')
 
 
@@ -30,9 +31,12 @@ def parse_quotes(file_name, soup):
     quote_list = []
     # div containing quote list found manually using F12 + finding selector
 
+    # NOTE: make sure to update selector if not working
+
     # retrieves soup (div) that contains the quotes
-    # old selector: #mainApp > div > div > div:nth-child(2) > div > div:nth-child(2) > div > div > div > div > div.ArticleFrame__articleContainer__2HV3L.container > div.row > div.article-body.col-md-8.offset-md-0.col-lg-8.offset-lg-1 > div > div.offset-md-0.offset-lg-1
-    selector = '#mainArticleWrapper > div:nth-child(1) > div > div.ArticleGrid__feedContainer__BSOXe > div:nth-child(2) > article > article > div.ModernArticleBody__cleanBodyText__sNffF.article-body'
+    # older selector: #mainApp > div > div > div:nth-child(2) > div > div:nth-child(2) > div > div > div > div > div.ArticleFrame__articleContainer__2HV3L.container > div.row > div.article-body.col-md-8.offset-md-0.col-lg-8.offset-lg-1 > div > div.offset-md-0.offset-lg-1
+    # old_selector = '#mainArticleWrapper > div:nth-child(1) > div > div.ArticleGrid__feedContainer__BSOXe > div:nth-child(2) > article > article > div.ModernArticleBody__cleanBodyText__sNffF.article-body'
+    selector = '#mainArticleWrapper > div:nth-child(2) > div > div.ArticleGrid__feedContainer__BSOXe > div.Article__articleContent__1lZhE.np-content > article > article > div.ModernArticleBody__cleanBodyText__sNffF.article-body'
     quote_soup = bs4.BeautifulSoup(str(soup.select(selector)), 'lxml')
 
     # gives the quotes
@@ -41,26 +45,29 @@ def parse_quotes(file_name, soup):
         if result.text[0] == "\"":
             quote_list.append(result.text)
 
-    if (len(quote_list) != 366):
-        print("Quotes not found")
+    num_days = 365
+    if (len(quote_list) != num_days):
+        print(f"Number of quotes ({len(quote_list)}) != {num_days}")
         # error check if quotes not found using selector
         return
 
     with open(file_name, 'wb') as f:
         pickle.dump(quote_list, f)
+    print("Quotes parsed")
 
 
 def main():
     # string constants
-    website = ("https://www.inc.com/bill-murphy-jr/"
-           "366-top-inspirational-quotes-motivational-quotes-"
-           "for-every-single-day-in-2020.html")
+    # website = ("https://www.inc.com/bill-murphy-jr/"
+    #        "366-top-inspirational-quotes-motivational-quotes-"
+    #        "for-every-single-day-in-2020.html")
+    url = 'https://www.inc.com/bill-murphy-jr/365-inspirational-quotes-for-every-day-in-2022.html'
     file_name = 'website.txt'
     quote_file = 'quotes.txt'
 
     # check if file of quotes exists
     if not os.path.exists(quote_file):
-        soup = get_soup(file_name, website)
+        soup = get_soup(file_name, url)
         parse_quotes(quote_file, soup)
 
     with open(quote_file, 'rb') as f:
