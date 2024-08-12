@@ -163,4 +163,3 @@ cython_debug/
 .python-version
 .DS_Store
 *.csv
-*.json
