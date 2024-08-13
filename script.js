@@ -4,11 +4,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const today = new Date().toISOString().split('T')[0];
     datePicker.value = today;
 
+    // random quote button
+    const randomButton = document.getElementById('random-button');
+
     // Fetch quotes from a .json file
     fetch('quotes.json')
         .then(response => response.json())
         .then(data => {
             const quotes = data;
+
+            // get all dates for random quote function
+            const dates = quotes.map(quote => quote.Date);
 
             // Function to get the quote for a given date
             function getQuote(date) {
@@ -29,6 +35,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Event listener to update quote when date changes
             datePicker.addEventListener('change', updateQuote);
+
+            // Event listener to get random quote 
+            randomButton.addEventListener('click', () => {
+                const randomDate = dates[Math.floor(Math.random() * dates.length)];
+                datePicker.value = randomDate;
+                updateQuote();
+            })
         })
         .catch(error => console.error('Error fetching quotes:', error));
 });
