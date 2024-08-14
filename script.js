@@ -14,20 +14,23 @@ document.addEventListener('DOMContentLoaded', function() {
             const quotes = data;
 
             // get all dates for random quote function
-            const dates = quotes.map(quote => quote.Date);
+            const dates = quotes.map(quote => quote.date);
 
             // Function to get the quote for a given date
             function getQuote(date) {
                 // The json file column names are "Date" and "Quote"
-                const quote = quotes.find(quote => quote.Date == date).Quote;
-                return quote || "No quote available for this date.";
+                const quote = quotes.find(quote => quote.date == date);
+                const author = quote.author
+                const quoteText = quote.quote
+                return [quoteText, author] || ["No quote available for this date.", ""];
             }
 
             // Update the textContent of an element by ID with today's quote
             function updateQuote() {
                 const selectedDate = datePicker.value;
                 const quoteElement = document.getElementById('quote');
-                quoteElement.textContent = getQuote(selectedDate);
+                const authorElement = document.getElementById('author');
+                [quoteElement.textContent, authorElement.textContent] = getQuote(selectedDate);
             }
 
             // Update the page with today's quote when the page loads
