@@ -20,9 +20,12 @@ document.addEventListener('DOMContentLoaded', function() {
             function getQuote(date) {
                 // The json file column names are "Date" and "Quote"
                 const quote = quotes.find(quote => quote.date == date);
+                if (!quote) {
+                    return ["No quote available for this date.", ""];
+                }
                 const author = quote.author
                 const quoteText = quote.quote
-                return [quoteText, author] || ["No quote available for this date.", ""];
+                return [quoteText, author];
             }
 
             // Update the textContent of an element by ID with today's quote
@@ -32,6 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const authorElement = document.getElementById('author');
                 const dateElement = document.getElementById('date');
                 [quoteElement.textContent, authorElement.textContent] = getQuote(selectedDate);
+                console.log(quoteElement.textContent)
                 const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 dateElement.textContent = new Date(selectedDate).toLocaleDateString('en-US', options);
             }
