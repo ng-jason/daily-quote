@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 const authorElement = document.getElementById('author');
                 const dateElement = document.getElementById('date');
                 [quoteElement.textContent, authorElement.textContent] = getQuote(selectedDate);
-                console.log(quoteElement.textContent)
                 const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 dateElement.textContent = new Date(selectedDate).toLocaleDateString('en-US', options);
             }

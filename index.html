@@ -1,27 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>quotes</title>
-        <script defer src="script.js"></script>
-        <link rel="stylesheet" href="styles.css"/>
-    </head>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>quotes</title>
+    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>quote of the day</h1>
+        <div class="controls">
+          <label for="date-picker" hidden>pick a date:</label>
+          <input type="date" id="date-picker" aria-label="select date for quote">
+          <button id="random-button">random quote</button>
+        </div>
+      </header>
 
-    <body>
+      <section class="date-display">
+        <p id="date" class="date"></p>
+      </section>
 
-        <p>quote of the day</p>
-        
-        <!-- <label for="date-picker"></label> -->
-        <input type="date" id="date-picker">
-        <!-- <button>get quote</button> -->
-        <button id="random-button">random quote</button>
-
-        <h2 id="date" class="date"></h2>
-        <h1 id="quote" class="quote"></h1>
-        <h2 id="author" class="author"></h2>
-
-    </body>
-
+      <section class="quote-container">
+        <blockquote>
+          <p id="quote"></p>
+          <footer>
+            <cite id="author"></cite>
+          </footer>
+        </blockquote>
+      </section>
+    </main>
+  </body>
 </html>
