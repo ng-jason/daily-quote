@@ -2,34 +2,29 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>quotes</title>
     <script defer src="script.js"></script>
     <link rel="stylesheet" href="styles.css"/>
   </head>
   <body>
+
+    <header>
+          <p id="date"></p>
+    </header>
+
     <main>
-      <header>
-        <h1>quote of the day</h1>
-        <div class="controls">
-          <label for="date-picker" hidden>pick a date:</label>
-          <input type="date" id="date-picker" aria-label="select date for quote">
-          <button id="random-button">random quote</button>
-        </div>
-      </header>
-
-      <section class="date-display">
-        <p id="date" class="date"></p>
-      </section>
-
-      <section class="quote-container">
-        <blockquote>
-          <p id="quote"></p>
-          <footer>
-            <cite id="author"></cite>
-          </footer>
-        </blockquote>
-      </section>
+      <blockquote>
+        <p id="quote"></p>
+        <cite id="author"></cite>
+      </blockquote>
     </main>
+
+    <footer>
+      <label for="date-picker" hidden>pick a date:</label>
+      <input type="date" id="date-picker" aria-label="select date for quote">
+      <button id="random-button" aria-label="get a random quote">random quote</button>
+    </footer>
+
   </body>
 </html>

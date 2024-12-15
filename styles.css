@@ -1,28 +1,91 @@
-/* body {
-    margin: 0 auto;
-    max-width: 30em;
-    font-family: "Helvetica", "Arial", sans-serif;
-    line-height: 1.5;
-    color: #555;
-} */
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
-/* .quote {
-    padding: 2px 4px;
-    vertical-align: text-bottom;
-    background: #eee;
-} */
+* {
+  -webkit-text-size-adjust: 100%;
+  padding: 0;
+  /* 2. Remove default margin */
+  margin: 0;
+}
 
-/* div:has(> blockquote) {
-    background-color: #ededed;
-    margin: 10px auto;
-    padding: 15px;
-    border-radius: 5px;
-} */
+html {
+    touch-action: manipulation; /* disables double-tap zoom */
+    width: clamp(45ch, 69%, 100ch);
+    margin: auto;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    height: 100svh;
+    font-family: 'Merriweather', Times, serif;
+    font-size: clamp(1.5rem, 5vw, 3rem);
+    /* 7. Avoid text overflows */
+    overflow-wrap: break-word;
+    text-wrap: balance;
+}
+
+#date, #author {
+    font-size: clamp(1.337rem, 4vw, 2rem);
+}
+
+#date {
+    text-align: center;
+}
+
+/* for the ” quotation mark above the quote */
+blockquote::before {
+    display: block;
+    text-align: center;
+    content: '”';
+    font-weight: bolder;
+    font-size: 2em;
+    margin-top: 2rem;
+    margin-bottom: -0.69rem;
+}
+
+#quote {
+    text-align: center;
+}
+
+#author::before {
+    content: '—';
+}
+
+#author {
+    display: block;
+    margin-top: 2rem;
+    margin-left: 27%;
+    margin-bottom: 2rem;
+    text-align: right;
+    color: dimgrey;
+}
 
 footer {
-    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.69rem;
+}
+
+#date-picker {
+    width: 10em;
+    font-size: 1rem;
+    font-family: monospace;
+    text-align: center;
+}
+
+#random-button {
+    width: 10em;
+    font-size: 1rem;
+    font-family: monospace;
 }
 
 [hidden] {
-display: none !important;
+    display: none !important;
 }
