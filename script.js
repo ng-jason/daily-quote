@@ -1,7 +1,8 @@
-// Set date picker to today's date
+// get date parameter from URL or use today's date
+const params = new URLSearchParams(window.location.search);
 const datePicker = document.getElementById('date-picker');
 const today = new Date().toISOString().split('T')[0];
-datePicker.value = today;
+datePicker.value = params.get("date") || today;
 
 // random quote button
 const randomButton = document.getElementById('random-button');
@@ -33,6 +34,12 @@ fetch('quotes.json')
         // Update the textContent of an element by ID with today's quote
         function updateContent() {
             const selectedDate = datePicker.value;
+
+            // update URL when date changes
+            const url = new URL(window.location);
+            url.searchParams.set("date", selectedDate);
+            window.history.pushState({}, "", url);
+
             const quoteElement = document.getElementById('quote');
             const authorElement = document.getElementById('author');
             const dateElement = document.getElementById('date');
@@ -67,4 +74,7 @@ fetch('quotes.json')
         prevButton.addEventListener('click', () => adjustDate(-1));
         nextButton.addEventListener('click', () => adjustDate(+1));
     })
-    .catch(error => console.error('Error fetching quotes:', error));
+    .catch(error => {
+        console.error('Error fetching quotes:', error);
+        document.getElementById('quote').textContent = 'Failed to load quotes';
+    });
