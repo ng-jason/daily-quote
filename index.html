@@ -23,14 +23,16 @@
     </main>
 
     <footer>
-      <span>
-        <button id="prev-button" aria-label="Previous date">◀</button>
-        <label for="date-picker" hidden>pick a date:</label>
-        <input type="date" id="date-picker" aria-label="select date for quote">
-        <button id="next-button" aria-label="Next date">▶</button>
-      </span>
-      <button id="random-button" aria-label="get a random quote">random quote</button>
+      <a href="https://github.com/ng-jason/daily-quote" target="_blank"><img src="github-mark.svg" /></a>
+      <div class="controls">
+        <span>
+          <button id="prev-button" title="previous date" aria-label="previous date">◀</button>
+          <label for="date-picker" hidden>pick a date:</label>
+          <input type="date" id="date-picker" title="select date for quote" aria-label="select date for quote">
+          <button id="next-button" title="next date" aria-label="next date">▶</button>
+        </span>
+        <button id="random-button" title="get a random quote" aria-label="get a random quote">random quote</button>
+      </div>
     </footer>
-
   </body>
 </html>
