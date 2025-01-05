@@ -26,7 +26,7 @@ fetch('quotes.json')
             if (!quote) {
                 return ["No quote available for this date.", ""];
             }
-            const author = quote.author;
+            const author = "—" + quote.author;
             const quoteText = quote.quote;
             return [quoteText, author];
         }
