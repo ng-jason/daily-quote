@@ -1,5 +1,305 @@
 [
   {
+    "date": "2016-01-01",
+    "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+    "author": "Michelangelo"
+  },
+  {
+    "date": "2016-01-02",
+    "quote": "Life\u2019s like a movie; write your own ending, keep believing, keep pretending.",
+    "author": "Jim Henson"
+  },
+  {
+    "date": "2016-01-03",
+    "quote": "There is no security in this life. There is only opportunity.",
+    "author": "Douglas MacArthur"
+  },
+  {
+    "date": "2016-01-04",
+    "quote": "Destiny is not a matter of chance, it is a matter of choice. It is not a thing to be waited for, it is a thing to be achieved.",
+    "author": "William Jennings Bryan"
+  },
+  {
+    "date": "2016-01-05",
+    "quote": "It\u2019s never too late to be what you might have been.",
+    "author": "George Elliot"
+  },
+  {
+    "date": "2016-01-06",
+    "quote": "If you have no critics, you\u2019ll likely have no success.",
+    "author": "Malcolm Forbes"
+  },
+  {
+    "date": "2016-01-07",
+    "quote": "Winners make a habit of manufacturing their own positive expectations in advance of the event.",
+    "author": "Brian Tracy"
+  },
+  {
+    "date": "2016-01-08",
+    "quote": "It is not how much we do, but how much love we put in the doing. It is not how much we give, but how much love we put in the giving.",
+    "author": "Mother Teresa"
+  },
+  {
+    "date": "2016-01-09",
+    "quote": "People take different roads seeking fulfillment and happiness. Just because they\u2019re not on your road doesn\u2019t mean they\u2019ve gotten lost.",
+    "author": "Dalai Lama"
+  },
+  {
+    "date": "2016-01-10",
+    "quote": "We don\u2019t stop playing because we grow old; we grow old because we stop playing.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "date": "2016-01-11",
+    "quote": "A ship in harbor is safe, but that is not what ships are for.",
+    "author": "John A. Shedd"
+  },
+  {
+    "date": "2016-01-12",
+    "quote": "There is a vitality, a life force, an energy that is translated through you; and because there is only one of you in all of time, this expression is unique.",
+    "author": "Martha Graham"
+  },
+  {
+    "date": "2016-01-13",
+    "quote": "I want to sing like the birds sing, not worrying about who hears or what they think.",
+    "author": "Rumi"
+  },
+  {
+    "date": "2016-01-14",
+    "quote": "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "date": "2016-01-15",
+    "quote": "I don\u2019t know what your destiny will be, but one thing I know: The only ones among you who will be truly happy are those who have sought and found how to serve.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "date": "2016-01-16",
+    "quote": "Far better is it to dare mighty things, to win glorious triumphs \u2014 even though checkered by failure \u2014 than to rank with those poor spirits who neither enjoy much nor suffer much, because they live in a gray twilight that knows not victory nor defeat.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "date": "2016-01-17",
+    "quote": "A good criterion for measuring success in life is the number of people you have made happy.",
+    "author": "Robert J. Lumsden"
+  },
+  {
+    "date": "2016-01-18",
+    "quote": "The time is always right to do what is right.",
+    "author": "Martin Luther King\u00a0Jr."
+  },
+  {
+    "date": "2016-01-19",
+    "quote": "Let yourself be silently drawn by the stronger pull of what you really love.",
+    "author": "Rumi"
+  },
+  {
+    "date": "2016-01-20",
+    "quote": "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you.",
+    "author": "Carl Sandburg"
+  },
+  {
+    "date": "2016-01-21",
+    "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "date": "2016-01-22",
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mohandas K. Gandhi"
+  },
+  {
+    "date": "2016-01-23",
+    "quote": "Out of clutter, find simplicity. From discord, find harmony. In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein"
+  },
+  {
+    "date": "2016-01-24",
+    "quote": "Life isn\u2019t about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "date": "2016-01-25",
+    "quote": "A good traveler has no fixed plans, and is not intent on arriving.",
+    "author": "Lao Tzu"
+  },
+  {
+    "date": "2016-01-26",
+    "quote": "There will come a time when you believe everything is finished. That will be the beginning.",
+    "author": "Louis L\u2019Amour"
+  },
+  {
+    "date": "2016-01-27",
+    "quote": "Life is really simple, but men insist on making it complicated.",
+    "author": "Confucius"
+  },
+  {
+    "date": "2016-01-28",
+    "quote": "With every experience, you alone are painting your own canvas, thought by thought, choice by choice.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "date": "2016-01-29",
+    "quote": "Whether you be man or woman, you will never do anything in this world without courage. It is the greatest quality of the mind next to honor.",
+    "author": "James Lane Allen"
+  },
+  {
+    "date": "2016-01-30",
+    "quote": "It takes as much energy to wish as it does to plan.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "date": "2016-01-31",
+    "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+    "author": "Charles Darwin"
+  },
+  {
+    "date": "2016-02-01",
+    "quote": "You know you\u2019re in love when you don\u2019t want to fall asleep because reality is finally better than your dreams.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "date": "2016-02-02",
+    "quote": "I think I love you,\u00a0and eh, I-I just wondered by any chance you wouldn\u2019t like to\u2026 Eh\u2026 Eh\u2026 No, no, no of course not\u2026 I\u2019m an idiot.",
+    "author": "Hugh Grant,"
+  },
+  {
+    "date": "2016-02-03",
+    "quote": "Marriage is really tough because you have to deal with feelings and lawyers.",
+    "author": "Richard Pryor"
+  },
+  {
+    "date": "2016-02-04",
+    "quote": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "date": "2016-02-05",
+    "quote": "In love, one and one are one.",
+    "author": "Jean Paul Sartre"
+  },
+  {
+    "date": "2016-02-06",
+    "quote": "A happy house is one in which each spouse grants the possibility that the other may be right, though neither believes it.",
+    "author": "Don Fraser"
+  },
+  {
+    "date": "2016-02-07",
+    "quote": "I married a woman who loves to camp \u2026\u00a0and I am what you would call\u00a0indoorsy.",
+    "author": "Jim Gaffigan"
+  },
+  {
+    "date": "2016-02-08",
+    "quote": "True love is singing Karaoke \u2018Under Pressure\u2019 and letting the other person sing the Freddy Mercury part.",
+    "author": "Mindy Kaling"
+  },
+  {
+    "date": "2016-02-09",
+    "quote": "Men are from Earth. Women are from Earth. Deal with it.",
+    "author": "George Carlin"
+  },
+  {
+    "date": "2016-02-11",
+    "quote": "I was talking to one of these friends about a father-child activity that Dave is not here to do. We came up with a plan to fill in for Dave. I cried to him, \u2018But I want Dave. I want option A.\u2019\u00a0He put his arm around me and said, \u2018Option A is not available. So let\u2019s just kick the shit out of option B.'",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "date": "2016-02-12",
+    "quote": "The only thing worse than a boy who hates you: a boy that loves you.",
+    "author": "Markus Zusak, The Book Thief"
+  },
+  {
+    "date": "2016-02-13",
+    "quote": "Love means never having to say you\u2019re sorry.",
+    "author": "actor Ryan O\u2019Neal, in the last line of the 1970 movie,"
+  },
+  {
+    "date": "2016-02-14",
+    "quote": "That\u2019s the dumbest thing I ever heard.",
+    "author": "Ryan O\u2019Neal, in the 1972\u00a0movie,"
+  },
+  {
+    "date": "2016-02-15",
+    "quote": "Republicans fell in love with this thing, and now they can\u2019t stop talking about how much they hate it. It\u2019s like we\u2019re trapped in a Taylor Swift album.",
+    "author": "President Obama, joking\u00a0about the budget program known as the sequester at the\u00a02013 White House Correspondents Dinner."
+  },
+  {
+    "date": "2016-02-16",
+    "quote": "Love is a friendship set to music.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "date": "2016-02-17",
+    "quote": "After seven years of marriage, I\u2019m sure of two things \u2014 first, never wallpaper together, and second, you\u2019ll need two bathrooms.. both for her. The rest is a mystery, but a mystery I\u00a0love\u00a0to be involved in.",
+    "author": "Dennis Miller"
+  },
+  {
+    "date": "2016-02-18",
+    "quote": "Obviously, if I was serious about having a relationship with someone long-term, the last people I would introduce him to would be my family.",
+    "author": "Chelsea Handler"
+  },
+  {
+    "date": "2016-02-19",
+    "quote": "Real love amounts to withholding the truth, even when you\u2019re offered the perfect opportunity to hurt someone\u2019s feelings.",
+    "author": "David Sedaris"
+  },
+  {
+    "date": "2016-02-20",
+    "quote": "It\u2019s a very dangerous state. You are inclined to recklessness and kind of tune out the rest of your life and everything that\u2019s been important to you. It\u2019s actually not all that pleasurable. I don\u2019t know who the hell wants to get in a situation where you can\u2019t bear an hour without somebody\u2019s company.",
+    "author": "Colin Firth"
+  },
+  {
+    "date": "2016-02-21",
+    "quote": "Women love a self-confident bald man.",
+    "author": "Larry David"
+  },
+  {
+    "date": "2016-02-24",
+    "quote": "Just last week I wrote: \u2018I still\u00a0love\u00a0you. See last year\u2019s card for full details.'",
+    "author": "Michael McIntyre"
+  },
+  {
+    "date": "2016-02-25",
+    "quote": "Honesty\u00a0is the key to a relationship. If you can fake that, you\u2019re in.",
+    "author": "Richard Jeni"
+  },
+  {
+    "date": "2016-02-26",
+    "quote": "My friends tell me I have an intimacy problem. But they don\u2019t really know me.",
+    "author": "Garry Shandling"
+  },
+  {
+    "date": "2016-02-27",
+    "quote": "Before you marry a person, you should first make them use a computer with slow Internet service to see who they really are.",
+    "author": "Will Ferrell"
+  },
+  {
+    "date": "2016-02-28",
+    "quote": "There\u2019s no substitute for a great love who says, \u2018No matter what\u2019s wrong with you, you\u2019re welcome at this table.'",
+    "author": "Tom Hanks"
+  },
+  {
+    "date": "2016-02-29",
+    "quote": "I thought I was promiscuous, but it turns out I was just thorough.",
+    "author": "Russell Brand"
+  },
+  {
+    "date": "2016-02-10",
+    "quote": "My perfect date night: I pick you up. In my Kia Sorrento. You get in. There\u2019s candles in the car. You go \u2018Is that dangerous?\u201d and I go, \u2018Yes\u2026 but I like danger.\u2019\nWe go to your favorite restaurant, and we have a fantastic meal. We come outside and we see my car\u2019s on fire. You go, \u2018Aziz, your car\u2019s on fire. Aren\u2019t you upset?\u2019\nI pull out a bag of marshmallows and I go, \u2018No. I knew this was gonna happen.\u2019 And then I kiss you. In front of my burning car.",
+    "author": "Aziz Ansari"
+  },
+  {
+    "date": "2016-02-22",
+    "quote": "If you text \u2018I love you\u2019 and the person writes back an emoji \u2013 no matter what that emoji is \u2013 they don\u2019t love you back.",
+    "author": "Chelsea Peretti"
+  },
+  {
+    "date": "2016-02-23",
+    "quote": "Love thy neighbor \u2014 and if he happens to be tall, debonair and devastating, it will be that much easier.",
+    "author": "Mae West"
+  },
+  {
     "date": "2017-01-01",
     "quote": "I have learned over the years that when one\u2019s mind is made up, this diminishes fear.",
     "author": "Rosa Parks"
@@ -5466,1832 +5766,1832 @@
   },
   {
     "date": "2020-01-01",
-    "quote": "",
+    "quote": "I\u2019ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.\u201d\u00a0\u2014 Maya Angelo",
     "author": "Maya Angelou"
   },
   {
     "date": "2020-01-02",
-    "quote": "",
+    "quote": "The thing about smart people is that they seem like crazy people to dumb people.\u201d\u2014 Stephen Hawkin",
     "author": "Stephen Hawking"
   },
   {
     "date": "2020-01-03",
-    "quote": "",
+    "quote": "If you think you are too small to make a difference, try sleeping with a mosquito.\u201d\u2014 Dalai Lam",
     "author": "Dalai Lama"
   },
   {
     "date": "2020-01-04",
-    "quote": "",
+    "quote": "Have no fear of perfection. You\u2019ll never reach it.\u201d\u2014 Salvador Dal",
     "author": "Salvador Dali"
   },
   {
     "date": "2020-01-05",
-    "quote": "",
+    "quote": "You can change. And you can be an agent of change.\u201d\u2014 Laura Der",
     "author": "Laura Dern"
   },
   {
     "date": "2020-01-06",
-    "quote": "",
+    "quote": "Hard work and education will take you farther than any government program can ever promise.\u201d\u2014 Mia Lov",
     "author": "Mia Love"
   },
   {
     "date": "2020-01-07",
-    "quote": "",
+    "quote": "Wanting to be a good actor is not good enough. You must want to be a great actor. You just have to have that.\u201d\u2014 Gary Oldma",
     "author": "Gary Oldman"
   },
   {
     "date": "2020-01-08",
-    "quote": "",
+    "quote": "When I first moved to New York, someone who thought they knew more than I did said: \u2018You have to always look like you know where you\u2019re going when you get out of the subway.'\u201d\u2014 Maya Rudolp",
     "author": "Maya Rudolph"
   },
   {
     "date": "2020-01-09",
-    "quote": "",
+    "quote": "It\u2019s like soul music, isn\u2019t it all soul music? Otherwise what is it, non-soul music? I-have-no-soul music? Soulless music? People need to put a name on something to identify it, and I understand it.\u201d\u2014 Mark Lanega",
     "author": "Mark Lanegan"
   },
   {
     "date": "2020-01-10",
-    "quote": "",
+    "quote": "Life has a much bigger plan for you. Happiness is part of that plan. Health is part of that plan. Stability is part of that plan. Constant struggle is not.\u201d\u2014 Kris Car",
     "author": "Kris Carr"
   },
   {
     "date": "2020-01-11",
-    "quote": "",
+    "quote": "Just believe in yourself. Even if you don\u2019t, pretend that you do and, at some point, you will.\u201d\u2014 Venus William",
     "author": "Venus Williams"
   },
   {
     "date": "2020-01-12",
-    "quote": "",
+    "quote": "The first step is clearly defining what it is you\u2019re after, because without knowing that, you\u2019ll never get it.\u201d\u2014 Halle Berr",
     "author": "Halle Berry"
   },
   {
     "date": "2020-01-13",
-    "quote": "",
+    "quote": "What gets celebrated gets replicated.\u201d\u2014 Bradley Coope",
     "author": "Bradley Cooper"
   },
   {
     "date": "2020-01-14",
-    "quote": "",
+    "quote": "Far and away the best prize that life has to offer is the chance to work hard at work worth doing.\u201d\u2014 Theodore Roosevel",
     "author": "Theodore Roosevelt"
   },
   {
     "date": "2020-01-15",
-    "quote": "",
+    "quote": "You can\u2019t do it unless you can imagine it.\u201d\u2014 George Luca",
     "author": "George Lucas"
   },
   {
     "date": "2020-01-16",
-    "quote": "",
+    "quote": "Someday, everything will make perfect sense. So for now, laugh at the confusion, smile through the tears, be strong and keep reminding your self that everything happens for a reason.\u201d\u2014 John Maye",
     "author": "John Mayer"
   },
   {
     "date": "2020-01-17",
-    "quote": "",
+    "quote": "Rarely are opportunities presented to you in a perfect way. In a nice little box with a yellow bow on top. \u2018Here, open it, it\u2019s perfect. You\u2019ll love it.\u2019 Opportunities \u2014 the good ones \u2014 are messy, confusing and hard to recognize. They\u2019re risky. They challenge you.\u201d\u2014 Susan Wojcick",
     "author": "Susan Wojcicki"
   },
   {
     "date": "2020-01-18",
-    "quote": "",
+    "quote": "Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity.\u201d\u2014 Louis Pasteu",
     "author": "Louis Pasteur"
   },
   {
     "date": "2020-01-19",
-    "quote": "",
+    "quote": "Everyone has a plan \u2019till they get punched in the mouth.\u201d\u2014 Mike Tyso",
     "author": "Mike Tyson"
   },
   {
     "date": "2020-01-20",
-    "quote": "",
+    "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.\u201d\u2014 Martin Luther King, Jr",
     "author": "Martin Luther King, Jr."
   },
   {
     "date": "2020-01-21",
-    "quote": "",
+    "quote": "Work hard and believe in yourself even when nobody else believes in you.\u201d\u2014 Richard Sherma",
     "author": "Richard Sherman"
   },
   {
     "date": "2020-01-22",
-    "quote": "",
+    "quote": "I think happiness is overrated. Satisfied, at peace-those would be more realistic goals.\u201d\u2014 Brad Pit",
     "author": "Brad Pitt"
   },
   {
     "date": "2020-01-23",
-    "quote": "",
+    "quote": "What happens next is up to you.\u201d\u2014 Chris Sacc",
     "author": "Chris Sacca"
   },
   {
     "date": "2020-01-24",
-    "quote": "",
+    "quote": "Normality is a paved road: It\u2019s comfortable to walk,? but no flowers grow on it.\u201d\u2014 Vincent Van Gog",
     "author": "Vincent Van Gogh"
   },
   {
     "date": "2020-01-25",
-    "quote": "",
+    "quote": "I don\u2019t know what the future may hold, but I know who holds the future.\u201d\u2014 Ralph Abernath",
     "author": "Ralph Abernathy"
   },
   {
     "date": "2020-01-26",
-    "quote": "",
+    "quote": "You have to learn the rules to be able to know how to break them.\u201d\u2014 Keira Knightle",
     "author": "Keira Knightley"
   },
   {
     "date": "2020-01-27",
-    "quote": "",
+    "quote": "It\u2019s a gift to exist, and with existence comes suffering. There\u2019s no escaping that.\u201d\u2014 Stephen Colber",
     "author": "Stephen Colbert"
   },
   {
     "date": "2020-01-28",
-    "quote": "",
+    "quote": "All good ideas start out as bad ideas, that\u2019s why it takes so long.\u201d\u2014 Steven Spielber",
     "author": "Steven Spielberg"
   },
   {
     "date": "2020-01-29",
-    "quote": "",
+    "quote": "Success is a lot like a bright, white tuxedo. You feel terrific when you get it, but then you\u2019re desperately afraid of getting it dirty, of spoiling it in any way.\u201d\u2014 Conan O\u2019Brie",
     "author": "Conan O\u2019Brien"
   },
   {
     "date": "2020-01-30",
-    "quote": "",
+    "quote": "If I can give myself credit for anything, it\u2019s that I do try to learn from the bad. I\u2019ve never felt so sure that I\u2019m in the right place doing what I\u2019m supposed to be doing as I am right now.\u201d\u2014 Emma Robert",
     "author": "Emma Roberts"
   },
   {
     "date": "2020-01-31",
-    "quote": "",
+    "quote": "People who think they know everything are a great annoyance to those of us who do.\u201d\u2014 Isaac Asimo",
     "author": "Isaac Asimov"
   },
   {
     "date": "2020-02-01",
-    "quote": "",
+    "quote": "Fail fast. Fail often\u2026 The most talented people in the world have bad ideas. That\u2019s a good thing to learn.\u201d\u2014 Rashida Jone",
     "author": "Rashida Jones"
   },
   {
     "date": "2020-02-02",
-    "quote": "",
+    "quote": "When you lose, talk little. When you win, talk less.\u201d\u2014 Tom Brad",
     "author": "Tom Brady"
   },
   {
     "date": "2020-02-03",
-    "quote": "",
+    "quote": "There is no limit to the amount of good you can do if you don\u2019t care who gets the credit.\u201d\u2014 Ronald Reaga",
     "author": "Ronald Reagan"
   },
   {
     "date": "2020-02-04",
-    "quote": "",
+    "quote": "Life\u2019s too short to hang out with people who aren\u2019t resourceful.\u201d\u2014 Jeff Bezo",
     "author": "Jeff Bezos"
   },
   {
     "date": "2020-02-05",
-    "quote": "",
+    "quote": "The beauty of love is that in giving it away, you are left with more than you had before.\u201d\u2014 David Simo",
     "author": "David Simon"
   },
   {
     "date": "2020-02-06",
-    "quote": "",
+    "quote": "My mother thinks I am the best. And I was raised to always believe what my mother tells me\u201d\u2014 Diego Maradon",
     "author": "Diego Maradona"
   },
   {
     "date": "2020-02-07",
-    "quote": "",
+    "quote": "Success isn\u2019t determined by how many times you win, but by how you play the week after you lose.\u201d\u2014 Pel",
     "author": "Pele"
   },
   {
     "date": "2020-02-08",
-    "quote": "",
+    "quote": "They say no matter how hard you work, there\u2019s always someone, somewhere working harder then you. Guess what.. I\u2019m that someone\u201d\u2014 Kevin Garnet",
     "author": "Kevin Garnett"
   },
   {
     "date": "2020-02-09",
-    "quote": "",
+    "quote": "There is a thing about beauty. Beauty is always associated with the male fantasy of what the female body is. I don\u2019t think there is anything wrong with beauty. It\u2019s just what women think is beautiful can be different. And there can be a beauty in individualism. If there is a wart or a scar, this can be beautiful, in a sense, when you paint it.\u201d\u2014 Jenny Savill",
     "author": "Jenny Saville"
   },
   {
     "date": "2020-02-10",
-    "quote": "",
+    "quote": "Positive thinking will let you do everything better than negative thinking will.\u201d\u2014 Zig Zigla",
     "author": "Zig Ziglar"
   },
   {
     "date": "2020-02-11",
-    "quote": "",
+    "quote": "You can\u2019t teach anybody anything, only make them realize the answers are already inside them.\u201d\u2014 Galileo Galile",
     "author": "Galileo Galilei"
   },
   {
     "date": "2020-02-12",
-    "quote": "",
+    "quote": "Ignore all hatred and criticism. Live for what you create, and die protecting it.\u201d\u2014 Lady Gag",
     "author": "Lady Gaga"
   },
   {
     "date": "2020-02-13",
-    "quote": "",
+    "quote": "One person can make a difference, and everyone should try.\u201d\u2014 John F. Kenned",
     "author": "John F. Kennedy"
   },
   {
     "date": "2020-02-14",
-    "quote": "",
+    "quote": "If everything was perfect you would never learn and you would never grow.\u201d\u2014 Beyonce Knowle",
     "author": "Beyonce Knowles"
   },
   {
     "date": "2020-02-15",
-    "quote": "",
+    "quote": "Grudges are a waste of perfect happiness. Laugh when you can. Apologize when you should and let go of what you can\u2019t change.\u201d\u2014 Drak",
     "author": "Drake"
   },
   {
     "date": "2020-02-16",
-    "quote": "",
+    "quote": "I\u2019m still learning. Hopefully I can keep getting better, and not stop where I am now.\u201d\u2014 Tim Dunca",
     "author": "Tim Duncan"
   },
   {
     "date": "2020-02-17",
-    "quote": "",
+    "quote": "A pack of jackasses led by a lion is superior to a pack of lions led by a jackass.\u201d\u2014 George Washingto",
     "author": "George Washington"
   },
   {
     "date": "2020-02-18",
-    "quote": "",
+    "quote": "I believe in everything until it\u2019s disproved. So I believe in fairies, the myths, dragons. It all exists, even if it\u2019s in your mind. Who\u2019s to say that dreams and nightmares aren\u2019t as real as the here and now?\u201d\u2014 John Lenno",
     "author": "John Lennon"
   },
   {
     "date": "2020-02-19",
-    "quote": "",
+    "quote": "The minute you start caring about what other people think, is the minute you stop being yourself.\u201d\u2014 Meryl Stree",
     "author": "Meryl Streep"
   },
   {
     "date": "2020-02-20",
-    "quote": "",
+    "quote": "Ultimately, you just have one life. You never know unless you try. And you never get anywhere unless you ask.\u201d\u2014 Kate Winsle",
     "author": "Kate Winslet"
   },
   {
     "date": "2020-02-21",
-    "quote": "",
+    "quote": "Nothing in life is worthwhile unless it\u2019s kind of hard to get there.\u201d\u2014 Carli Lloy",
     "author": "Carli Lloyd"
   },
   {
     "date": "2020-02-22",
-    "quote": "",
+    "quote": "I look for the day\u2026when the only criterion of excellence or position shall be the ability and character of the individual; and this time will come.\u201d\u2014 Susan B. Anthon",
     "author": "Susan B. Anthony"
   },
   {
     "date": "2020-02-23",
-    "quote": "",
+    "quote": "Most people ask questions because they want to know the answer; lawyers are trained never to ask questions unless they already know the answer.\u201d\u2014 Lani Guinie",
     "author": "Lani Guinier"
   },
   {
     "date": "2020-02-24",
-    "quote": "",
+    "quote": "An easy way to get people to like you is to make them laugh.\u201d\u2014 Isla Fishe",
     "author": "Isla Fisher"
   },
   {
     "date": "2020-02-25",
-    "quote": "",
+    "quote": "In life, winning and losing will both happen. What is never acceptable is quitting.\u201d\u2014 Magic Johnso",
     "author": "Magic Johnson"
   },
   {
     "date": "2020-02-26",
-    "quote": "",
+    "quote": "If you love what you do and are willing to do what it takes, it\u2019s within your reach.\u201d\u2014 Steve Woznia",
     "author": "Steve Wozniak"
   },
   {
     "date": "2020-02-27",
-    "quote": "",
+    "quote": "If you hear the dogs, keep going. If you see the torches in the woods, keep going. If there\u2019s shouting after you, keep going. Don\u2019t ever stop. Keep going. If you want a taste of freedom, keep going.\u201d\u2014 Harriet Tubma",
     "author": "Harriet Tubman"
   },
   {
     "date": "2020-02-28",
-    "quote": "",
+    "quote": "An intelligent investor gets satisfaction from the thought that his operations are exactly opposite to those of the crowd.\u201d\u2014 Benjamin Graha",
     "author": "Benjamin Graham"
   },
   {
     "date": "2020-02-29",
-    "quote": "",
+    "quote": "Nothing to me feels as good as laughing incredibly hard.\u201d\u2014 Steve Carel",
     "author": "Steve Carell"
   },
   {
     "date": "2020-03-01",
-    "quote": "",
+    "quote": "Anyone with two tunics should share with him who has none.\u201d\u2014 John the Baptis",
     "author": "John the Baptist"
   },
   {
     "date": "2020-03-02",
-    "quote": "",
+    "quote": "Faith and optimism come from love.\u201d\u2014 Maya Soetoro-N",
     "author": "Maya Soetoro-Ng"
   },
   {
     "date": "2020-03-03",
-    "quote": "",
+    "quote": "Use your fear\u2026 it can take you to the place where you store your courage.\u201d\u2014 Amelia Earhar",
     "author": "Amelia Earhart"
   },
   {
     "date": "2020-03-04",
-    "quote": "",
+    "quote": "If it wasn\u2019t hard, everyone would do it. It\u2019s the hard that makes it great.\u201d\u2014 Tom Hank",
     "author": "Tom Hanks"
   },
   {
     "date": "2020-03-05",
-    "quote": "",
+    "quote": "I get tired of myself pretty fast. So I can\u2019t imagine other people don\u2019t get tired of me.\u201d\u2014 Paul Giamatt",
     "author": "Paul Giamatti"
   },
   {
     "date": "2020-03-06",
-    "quote": "",
+    "quote": "Love is heaven and fear is hell. Where you place your attention is where you live.\u201d\u2014 Alan Cohe",
     "author": "Alan Cohen"
   },
   {
     "date": "2020-03-07",
-    "quote": "",
+    "quote": "One doesn\u2019t discover new lands without consenting to lose sight, for a very long time, of the shore.\u201d\u2014 Andre Gid",
     "author": "Andre Gide"
   },
   {
     "date": "2020-03-08",
-    "quote": "",
+    "quote": "It took me a long time not to judge myself through someone else\u2019s eyes.\u201d\u2014 Sally Fiel",
     "author": "Sally Field"
   },
   {
     "date": "2020-03-09",
-    "quote": "",
+    "quote": "We must learn and then teach our children that niceness does not equal goodness. Niceness is a decision, a strategy of social interaction; it is not a character trait. People seeking to control others almost always present the image of a nice person in the beginning.\u201d\u2014 Gavin de Becke",
     "author": "Gavin de Becker"
   },
   {
     "date": "2020-03-10",
-    "quote": "",
+    "quote": "You can overcome anything, if and only if you love something enough\u201d\u2014 Lionel Mess",
     "author": "Lionel Messi"
   },
   {
     "date": "2020-03-11",
-    "quote": "",
+    "quote": "People think I\u2019m an overnight success. No. It\u2019s just that you all found me overnight.\u201d\u2014 Leslie Jone",
     "author": "Leslie Jones"
   },
   {
     "date": "2020-03-12",
-    "quote": "",
+    "quote": "You are the only one who gets to decide what you will be remembered for.\u201d\u2014 Taylor Swif",
     "author": "Taylor Swift"
   },
   {
     "date": "2020-03-13",
-    "quote": "",
+    "quote": "It\u2019s always better to shock people and change people\u2019s expectations than to give them exactly what they think you can do.\u201d\u2014 Jonah Hil",
     "author": "Jonah Hill"
   },
   {
     "date": "2020-03-14",
-    "quote": "",
+    "quote": "Good things come to obsessive compulsives who fixate.\u201d\u2014 Kieran Culki",
     "author": "Kieran Culkin"
   },
   {
     "date": "2020-03-15",
-    "quote": "",
+    "quote": "Its unfortunate and I really wish I wouldn\u2019t have to say this, but I really like human beings who have suffered. They\u2019re kinder.\u201d\u2014 Emma Thompso",
     "author": "Emma Thompson"
   },
   {
     "date": "2020-03-16",
-    "quote": "",
+    "quote": "You don\u2019t overcome challenges by making them smaller but by making yourself bigger.\u201d\u2014 John C. Maxwel",
     "author": "John C. Maxwell"
   },
   {
     "date": "2020-03-17",
-    "quote": "",
+    "quote": "This life is yours. Take the power to choose what you want to do and do it well. Take the power to love what you want in life and love it honestly. Take the power to walk in the forest and be a part of nature. Take the power to control your own life. No one else can do it for you. Take the power to make your life happy.\u201d\u2014 Susan Polis Schut",
     "author": "Susan Polis Schutz"
   },
   {
     "date": "2020-03-18",
-    "quote": "",
+    "quote": "Sometimes your mistakes are you biggest virtues. You learn so much from the mistake. Those things that you think are the worst thing that\u2019s happening to you can somehow turn around and be the greatest opportunity.\u201d\u2014 Nicole Kidma",
     "author": "Nicole Kidman"
   },
   {
     "date": "2020-03-19",
-    "quote": "",
+    "quote": "You are on the eve of a complete victory. You can\u2019t go wrong. The world is behind you.\u201d\u2014 Josephine Bake",
     "author": "Josephine Baker"
   },
   {
     "date": "2020-03-20",
-    "quote": "",
+    "quote": "We should always have three friends in our lives-one who walks ahead who we look up to and follow; one who walks beside us, who is with us every step of our journey; and then, one who we reach back for and bring along after we\u2019ve cleared the way.\u201d\u2014 Michelle Obam",
     "author": "Michelle Obama"
   },
   {
     "date": "2020-03-21",
-    "quote": "",
+    "quote": "Never let anyone define you. You are the only person who defines you. No one can speak for you. Only you speak for you. You are your only voice.\u201d\u2014 Terry Crew",
     "author": "Terry Crews"
   },
   {
     "date": "2020-03-22",
-    "quote": "",
+    "quote": "Grant me courage to serve others; For in service there is true life.\u201d\u2014 Cesar Chave",
     "author": "Cesar Chavez"
   },
   {
     "date": "2020-03-23",
-    "quote": "",
+    "quote": "Improving yourself is a lot more profitable than trying to improve others.\u201d\u2014 Dale Carnegi",
     "author": "Dale Carnegie"
   },
   {
     "date": "2020-03-24",
-    "quote": "",
+    "quote": "It\u2019s just cool to be involved in something that\u2019s that big and joyous and meant to make people feel happy.\u201d\u2014 Andy Samber",
     "author": "Andy Samberg"
   },
   {
     "date": "2020-03-25",
-    "quote": "",
+    "quote": "If all I do in my life is soothe someone\u2019s spirit with a song , then let me do that and I\u2019m happy.\u201d\u2014 Gladys Knigh",
     "author": "Gladys Knight"
   },
   {
     "date": "2020-03-26",
-    "quote": "",
+    "quote": "The fastest way to change yourself is to hang out with people who are already the way you want to be.\u201d\u2014 Reid Hoffma",
     "author": "Reid Hoffman"
   },
   {
     "date": "2020-03-27",
-    "quote": "",
+    "quote": "I felt that one had better die fighting against injustice than to die like a dog or rat in a trap. I had already determined to sell my life as dearly as possible if attacked. I felt if I could take one lyncher with me, this would even up the score a little bit.\u201d\u2014 Ida B. Well",
     "author": "Ida B. Wells"
   },
   {
     "date": "2020-03-28",
-    "quote": "",
+    "quote": "Whenever I\u2019m stuck in traffic, I can\u2019t help but wonder, \u2018Where did the creator of The Jetsons go, and why hasn\u2019t he done something about this?'\u201d\u2014 Jimmy Fallo",
     "author": "Jimmy Fallon"
   },
   {
     "date": "2020-03-29",
-    "quote": "",
+    "quote": "It\u2019s just a job. Grass grows, birds fly, waves pound the sand. I beat people up.\u201d\u2014 Muhammad Al",
     "author": "Muhammad Ali"
   },
   {
     "date": "2020-03-30",
-    "quote": "",
+    "quote": "I still believe that love is all you need. I don\u2019t know a better message than that.\u201d\u2014 Paul McCartne",
     "author": "Paul McCartney"
   },
   {
     "date": "2020-03-31",
-    "quote": "",
+    "quote": "Take the opportunity to learn from your mistakes: find the cause of your problem and eliminate it. Don\u2019t try to be perfect; just be an excellent example of being human.\u201d\u2014 Tony Robbin",
     "author": "Tony Robbins"
   },
   {
     "date": "2020-04-01",
-    "quote": "",
+    "quote": "To see we must forget the name of the thing we are looking at.\u201d\u2014 Claude Mone",
     "author": "Claude Monet"
   },
   {
     "date": "2020-04-02",
-    "quote": "",
+    "quote": "Right is right, even if no one else does it.\u201d\u2014 Juliette Gordon Lo",
     "author": "Juliette Gordon Low"
   },
   {
     "date": "2020-04-03",
-    "quote": "",
+    "quote": "Don\u2019t confuse progress with winning.\u201d\u2014 Mary T. Barr",
     "author": "Mary T. Barra"
   },
   {
     "date": "2020-04-04",
-    "quote": "",
+    "quote": "The best way out is always through.\u201d\u2014 Robert Fros",
     "author": "Robert Frost"
   },
   {
     "date": "2020-04-05",
-    "quote": "",
+    "quote": "All I know is that when I needed McDonald\u2019s, McDonald\u2019s was there for me.\u201d\u2014 James Franc",
     "author": "James Franco"
   },
   {
     "date": "2020-04-06",
-    "quote": "",
+    "quote": "The worth of a life is not determined by a single failure or a solitary success.\u201d\u2014 Kevin Klin",
     "author": "Kevin Kline"
   },
   {
     "date": "2020-04-07",
-    "quote": "",
+    "quote": "You\u2019re going to fall down, but the world doesn\u2019t care how many times you fall down, as long as it\u2019s one fewer than the numbers of times you get back up.\u201d\u2014 Aaron Sorki",
     "author": "Aaron Sorkin"
   },
   {
     "date": "2020-04-08",
-    "quote": "",
+    "quote": "Again, you can\u2019t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something \u2013 your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.\u201d\u2014 Steve Job",
     "author": "Steve Jobs"
   },
   {
     "date": "2020-04-09",
-    "quote": "",
+    "quote": "Experience is simply the name we give our mistakes.\u201d\u2014 Oscar Wild",
     "author": "Oscar Wilde"
   },
   {
     "date": "2020-04-10",
-    "quote": "",
+    "quote": "Whatever you do, always give 100%. Unless you\u2019re donating blood.\u201d\u2014 Bill Murra",
     "author": "Bill Murray"
   },
   {
     "date": "2020-04-11",
-    "quote": "",
+    "quote": "Take wrong turns. Talk to strangers. Open unmarked doors. And if you see a group of people in a field, go find out what they are doing. Do things without always knowing how they\u2019ll turn out.\u201d\u2014 Randall Munro",
     "author": "Randall Munroe"
   },
   {
     "date": "2020-04-12",
-    "quote": "",
+    "quote": "God loves us beyond comprehension, and we cannot diminish God\u2019s love for us.\u201d\u2014 Saint Pete",
     "author": "Saint Peter"
   },
   {
     "date": "2020-04-13",
-    "quote": "",
+    "quote": "The only way to win is to learn faster than anyone else.\u201d\u2014 Eric Rie",
     "author": "Eric Ries"
   },
   {
     "date": "2020-04-14",
-    "quote": "",
+    "quote": "Start by doing what\u2019s necessary; then do what\u2019s possible; and suddenly you are doing the impossible.\u201d\u2014 Francis of Assis",
     "author": "Francis of Assisi"
   },
   {
     "date": "2020-04-15",
-    "quote": "",
+    "quote": "No failure means no risk, which means nothing new\u201d\u2014 Richard Branso",
     "author": "Richard Branson"
   },
   {
     "date": "2020-04-16",
-    "quote": "",
+    "quote": "Life is about making mistakes. Death is about wishing you made more.\u201d\u2014 Jennifer Anisto",
     "author": "Jennifer Aniston"
   },
   {
     "date": "2020-04-17",
-    "quote": "",
+    "quote": "Be who you are and say what you feel because those who mind don\u2019t matter and those who matter don\u2019t mind. Don\u2019t cry because it\u2019s over. Smile because it happened.\u201d\u2014 Dr. Seus",
     "author": "Dr. Seuss"
   },
   {
     "date": "2020-04-18",
-    "quote": "",
+    "quote": "I would like to show the world today as an ant sees it and tomorrow as the moon sees it.\u201d\u2014 Hannah Hoc",
     "author": "Hannah Hoch"
   },
   {
     "date": "2020-04-19",
-    "quote": "",
+    "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.\u201d\u2014 David Brinkle",
     "author": "David Brinkley"
   },
   {
     "date": "2020-04-20",
-    "quote": "",
+    "quote": "My soul is that of a drummer\u2026. I didn\u2019t do it to become rich and famous. I did it because it was the love of my life.\u201d\u2014 Ringo Star",
     "author": "Ringo Starr"
   },
   {
     "date": "2020-04-21",
-    "quote": "",
+    "quote": "If you\u2019re ever if you\u2019re ever thinking, \u201cOh, but I\u2019m a waste of space and I\u2019m a burden,\u201d remember: that also describes the Grand Canyon. Why don\u2019t you have friends and family take pictures of you from a safe distance? Revel in your majestic profile?\u201d\u2014 Maria Bamfor",
     "author": "Maria Bamford"
   },
   {
     "date": "2020-04-22",
-    "quote": "",
+    "quote": "If you\u2019re too rigid in your thinking you may miss some wonderful opportunities for storytelling.\u201d\u2014 Vince Gilliga",
     "author": "Vince Gilligan"
   },
   {
     "date": "2020-04-23",
-    "quote": "",
+    "quote": "I believe ambition is not a dirty word. It\u2019s just believing in yourself and your abilities. Imagine this: What would happen if we were all brave enough to be a little bit more ambitious? I think the world would change.\u201d\u2014 Reese Witherspoo",
     "author": "Reese Witherspoon"
   },
   {
     "date": "2020-04-24",
-    "quote": "",
+    "quote": "It isn\u2019t hard to be good from time to time in sports. What is tough, is being good every day.\u201d\u2014 Willie May",
     "author": "Willie Mays"
   },
   {
     "date": "2020-04-25",
-    "quote": "",
+    "quote": "Practice what you know, and it will help to make clear what now you do not know.\u201d\u2014 Rembrand",
     "author": "Rembrandt"
   },
   {
     "date": "2020-04-26",
-    "quote": "",
+    "quote": "If you know exactly what you want to be, you need to spend as much time as possible with people who are actually that already.\u201d\u2014 Gary Vaynerchu",
     "author": "Gary Vaynerchuk"
   },
   {
     "date": "2020-04-27",
-    "quote": "",
+    "quote": "I say that the most liberating thing about beauty is realizing that you are the beholder.\u201d\u2014 Salma Haye",
     "author": "Salma Hayek"
   },
   {
     "date": "2020-04-28",
-    "quote": "",
+    "quote": "Those who matter don\u2019t mind, and those who mind don\u2019t matter.\u201d\u2014 Bernard Baruc",
     "author": "Bernard Baruch"
   },
   {
     "date": "2020-04-29",
-    "quote": "",
+    "quote": "If you can\u2019t fail, you can never get better.\u201d\u2014 Benedict Cumberbatc",
     "author": "Benedict Cumberbatch"
   },
   {
     "date": "2020-04-30",
-    "quote": "",
+    "quote": "Being polite and grateful will make people more inclined to help you. And if people are willing to help you, you may accidentally get something you want.\u201d\u2014 Jason Sudeiki",
     "author": "Jason Sudeikis"
   },
   {
     "date": "2020-05-01",
-    "quote": "",
+    "quote": "When sitting in meditation, say, That\u2019s not my business!\u201d with every thought that comes by.\u201d\u2014 Ajahn Cha",
     "author": "Ajahn Chah"
   },
   {
     "date": "2020-05-02",
-    "quote": "",
+    "quote": "When you\u2019re an outsider or a misfit, if you play it smart, your motto should be, \u2018I\u2019ll show \u2019em. I will show you.'\u201d\u2014 Wendy William",
     "author": "Wendy Williams"
   },
   {
     "date": "2020-05-03",
-    "quote": "",
+    "quote": "Life always offers you a second chance. is called tomorrow.\u201d\u2014 Dylan Thoma",
     "author": "Dylan Thomas"
   },
   {
     "date": "2020-05-04",
-    "quote": "",
+    "quote": "A book can change the world\u2026 Every book a child reads creates new neurons in that child\u2019s brain.\u201d\u2014 Jackie Frenc",
     "author": "Jackie French"
   },
   {
     "date": "2020-05-05",
-    "quote": "",
+    "quote": "The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday\u2019s logic.\u201d\u2014 Peter Drucke",
     "author": "Peter Drucker"
   },
   {
     "date": "2020-05-06",
-    "quote": "",
+    "quote": "The big money is not in the buying and selling \u2026 but in the waiting.\u201d\u2014 Charlie Munge",
     "author": "Charlie Munger"
   },
   {
     "date": "2020-05-07",
-    "quote": "",
+    "quote": "What we fear doing most is usually what we most need to do.\u201d\u2014 Tim Ferris",
     "author": "Tim Ferriss"
   },
   {
     "date": "2020-05-08",
-    "quote": "",
+    "quote": "If you feel safe in the area you\u2019re working in, you\u2019re not working in the right area. Always go a little further into the water than you feel you\u2019re capable of being in. Go a little bit out of your depth. And when you don\u2019t feel that your feet are quite touching the bottom, you\u2019re just about in the right place to do something exciting.\u201d\u2014 David Bowi",
     "author": "David Bowie"
   },
   {
     "date": "2020-05-09",
-    "quote": "",
+    "quote": "Take a stand for what\u2019s right. Raise a ruckus and make a change. You may not always be popular, but you\u2019ll be part of something larger and bigger and greater than yourself. Besides, making history is extremely cool.\u201d\u2014 Samuel L. Jackso",
     "author": "Samuel L. Jackson"
   },
   {
     "date": "2020-05-10",
-    "quote": "",
+    "quote": "Whatever you do, don\u2019t wake up at 65 years old and think about what you should have done with your life.\u201d\u2014 George Cloone",
     "author": "George Clooney"
   },
   {
     "date": "2020-05-11",
-    "quote": "",
+    "quote": "Understand well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.\u201d\u2014 Ada Lovelac",
     "author": "Ada Lovelace"
   },
   {
     "date": "2020-05-12",
-    "quote": "",
+    "quote": "The early bird gets the worm, but the second mouse gets the cheese\u201d\u2014 Steven Wrigh",
     "author": "Steven Wright"
   },
   {
     "date": "2020-05-13",
-    "quote": "",
+    "quote": "Best things in life aren\u2019t things.\u201d\u2014 Mike Nes",
     "author": "Mike Ness"
   },
   {
     "date": "2020-05-14",
-    "quote": "",
+    "quote": "The world is full of wonderful things you haven\u2019t seen yet. Don\u2019t ever give up on the chance of seeing them.\u201d\u2014 J. K. Rowlin",
     "author": "J. K. Rowling"
   },
   {
     "date": "2020-05-15",
-    "quote": "",
+    "quote": "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.\u201d\u2014 Bruce Le",
     "author": "Bruce Lee"
   },
   {
     "date": "2020-05-16",
-    "quote": "",
+    "quote": "Expecting the world to treat you fairly because you are a good person is a little like expecting the bull not to attack you because you are a vegetarian.\u201d\u2014 Dennis Whole",
     "author": "Dennis Wholey"
   },
   {
     "date": "2020-05-17",
-    "quote": "",
+    "quote": "You\u2019ll always make mistakes and you\u2019ll miss the mark sometimes. That\u2019s inevitably going to happen, because the best people in the world make mistakes \u2013 even people who are brilliant.\u201d\u2014 James Corde",
     "author": "James Corden"
   },
   {
     "date": "2020-05-18",
-    "quote": "",
+    "quote": "Be your own leader, be your own self, step out of my shadows and be your own person.\u201d\u2014 Snoop Dog",
     "author": "Snoop Dogg"
   },
   {
     "date": "2020-05-19",
-    "quote": "",
+    "quote": "Be like a duck. Calm on the surface, but always paddling like the dickens underneath.\u201d\u2014 Michael Cain",
     "author": "Michael Caine"
   },
   {
     "date": "2020-05-20",
-    "quote": "",
+    "quote": "If you feel rooted in your home and family, if you\u2019re active in your community, there\u2019s nothing more empowering. The best way to make a difference in the world is to start by making a difference in your own life.\u201d\u2014 Julia Louis-Dreyfu",
     "author": "Julia Louis-Dreyfus"
   },
   {
     "date": "2020-05-21",
-    "quote": "",
+    "quote": "If you are not doing what you love, you are wasting your time.\u201d\u2014 Billy Joe",
     "author": "Billy Joel"
   },
   {
     "date": "2020-05-22",
-    "quote": "",
+    "quote": "The world promises you comfort, but you were not made for comfort. You were made for greatness.\u201d\u2014 Pope Benedict XV",
     "author": "Pope Benedict XVI"
   },
   {
     "date": "2020-05-23",
-    "quote": "",
+    "quote": "An essential element of any art is risk. If you don\u2019t take a risk then how are you going to make something really beautiful, that hasn\u2019t been seen before?\u201d\u2014 Francis Ford Coppol",
     "author": "Francis Ford Coppola"
   },
   {
     "date": "2020-05-24",
-    "quote": "",
+    "quote": "When you walk up to opportunity\u2019s door, don\u2019t knock it\u2026 Kick that B*tch in, smile and introduce yourself\u201d\u2014 Dwayne Johnso",
     "author": "Dwayne Johnson"
   },
   {
     "date": "2020-05-25",
-    "quote": "",
+    "quote": "When we are no longer able to change a situation \u2013 we are challenged to change ourselves.\u201d\u2014 Viktor E. Frank",
     "author": "Viktor E. Frankl"
   },
   {
     "date": "2020-05-26",
-    "quote": "",
+    "quote": "When you abandon freedom to achieve security, you lose both and deserve neither.\u201d\u2014 Thomas Jefferso",
     "author": "Thomas Jefferson"
   },
   {
     "date": "2020-05-27",
-    "quote": "",
+    "quote": "It\u2019s your outlook on life that counts. If you take yourself lightly and don\u2019t take yourself too seriously, pretty soon you can find the humor in our everyday lives. And sometimes it can be a lifesaver.\u201d\u2014 Betty Whit",
     "author": "Betty White"
   },
   {
     "date": "2020-05-28",
-    "quote": "",
+    "quote": "It\u2019s beautiful when you watch something good happen to somebody when it\u2019s well deserved.\u201d\u2014 Jennifer Lawrenc",
     "author": "Jennifer Lawrence"
   },
   {
     "date": "2020-05-29",
-    "quote": "",
+    "quote": "Winning is not everything, but wanting to win is.\u201d\u2014 Vince Lombard",
     "author": "Vince Lombardi"
   },
   {
     "date": "2020-05-30",
-    "quote": "",
+    "quote": "It\u2019s a hard, lonely feeling, to be completely yourself in front of strangers.\u201d\u2014 Michael Ch",
     "author": "Michael Che"
   },
   {
     "date": "2020-05-31",
-    "quote": "",
+    "quote": "The only regrets I have are rather prosaic \u2013 like I wish I went for a swim in the Pacific.\u201d\u2014 Paul Alle",
     "author": "Paul Allen"
   },
   {
     "date": "2020-06-01",
-    "quote": "",
+    "quote": "Teach the children so it will not be necessary to teach the adults.\u201d\u2014 Abraham Lincol",
     "author": "Abraham Lincoln"
   },
   {
     "date": "2020-06-02",
-    "quote": "",
+    "quote": "You\u2019re never going to learn something as profoundly as when it\u2019s purely out of curiosity\u201d\u2014 Christopher Nola",
     "author": "Christopher Nolan"
   },
   {
     "date": "2020-06-03",
-    "quote": "",
+    "quote": "It is easier to build strong children than to repair broken men.\u201d\u2014 Frederick Douglas",
     "author": "Frederick Douglass"
   },
   {
     "date": "2020-06-04",
-    "quote": "",
+    "quote": "The secret of success is\u2026 to be fully awake to everything about you.\u201d\u2014 Jackson Polloc",
     "author": "Jackson Pollock"
   },
   {
     "date": "2020-06-05",
-    "quote": "",
+    "quote": "The life you have led doesn\u2019t need to be the only life you have.\u201d\u2014 Anna Quindle",
     "author": "Anna Quindlen"
   },
   {
     "date": "2020-06-06",
-    "quote": "",
+    "quote": "Goals live on the other side of obstacles and challenges. Be relentless in pursuit of those goals, especially in the face of obstacles. Along the way, make no excuses and place no blame.\u201d\u2014 Ray Bourqu",
     "author": "Ray Bourque"
   },
   {
     "date": "2020-06-07",
-    "quote": "",
+    "quote": "Noble deeds that are concealed are most esteemed.\u201d\u2014 Blaise Pasca",
     "author": "Blaise Pascal"
   },
   {
     "date": "2020-06-08",
-    "quote": "",
+    "quote": "To be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you.\u201d\u2014 C. S. Lewi",
     "author": "C. S. Lewis"
   },
   {
     "date": "2020-06-09",
-    "quote": "",
+    "quote": "All roads lead home in the end. You\u2019ve got to keep that in mind always \u2013 in your work and in your life.\u201d\u2014 Chiwetel Ejiofo",
     "author": "Chiwetel Ejiofor"
   },
   {
     "date": "2020-06-10",
-    "quote": "",
+    "quote": "An innovation will get traction only if it helps people get something that they\u2019re already doing in their lives done better.\u201d\u2014 Clayton Christense",
     "author": "Clayton Christensen"
   },
   {
     "date": "2020-06-11",
-    "quote": "",
+    "quote": "All the breaks you need in life wait within your imagination, Imagination is the workshop of your mind, capable of turning mind energy into accomplishment and wealth.\u201d\u2014 Napoleon Hil",
     "author": "Napoleon Hill"
   },
   {
     "date": "2020-06-12",
-    "quote": "",
+    "quote": "I didn\u2019t like the idea of being foolish, but I learned pretty soon that it was essential to fail and be foolish.\u201d\u2014 Daniel Day-Lewi",
     "author": "Daniel Day-Lewis"
   },
   {
     "date": "2020-06-13",
-    "quote": "",
+    "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.\u201d\u2014 Nhat Han",
     "author": "Nhat Hanh"
   },
   {
     "date": "2020-06-14",
-    "quote": "",
+    "quote": "An important attribute of success is to be yourself. Never hide what makes you, you.\u201d\u2014 Indra Nooy",
     "author": "Indra Nooyi"
   },
   {
     "date": "2020-06-15",
-    "quote": "",
+    "quote": "No matter who you are, no matter what you did, no matter where you\u2019ve come from, you can always change, become a better version of yourself.\u201d\u2014 Madonna Ciccon",
     "author": "Madonna Ciccone"
   },
   {
     "date": "2020-06-16",
-    "quote": "",
+    "quote": "It\u2019s easy to fool the eye but it\u2019s hard to fool the heart.\u201d\u2014 Al Pacin",
     "author": "Al Pacino"
   },
   {
     "date": "2020-06-17",
-    "quote": "",
+    "quote": "It\u2019s not always enough to be brave, I realized years later. You have to be brave and contribute something positive, too. Brave on its own is just a party trick.\u201d\u2014 B. J. Nova",
     "author": "B. J. Novak"
   },
   {
     "date": "2020-06-18",
-    "quote": "",
+    "quote": "Don\u2019t follow in any footprints, make your own prints. Because, you are the future of tomorrow.\u201d\u2014 Jackie Joyner-Kerse",
     "author": "Jackie Joyner-Kersee"
   },
   {
     "date": "2020-06-19",
-    "quote": "",
+    "quote": "Don\u2019t judge the picture by the frame, every man is not the same\u201d\u2014 Elton Joh",
     "author": "Elton John"
   },
   {
     "date": "2020-06-20",
-    "quote": "",
+    "quote": "Be passionate and bold. Always keep learning. You stop doing useful things if you don\u2019t learn.\u201d\u2014 Satya Nadell",
     "author": "Satya Nadella"
   },
   {
     "date": "2020-06-21",
-    "quote": "",
+    "quote": "Troubles are often the tools by which God fashions us for better things.\u201d\u2014 Henry Ward Beeche",
     "author": "Henry Ward Beecher"
   },
   {
     "date": "2020-06-22",
-    "quote": "",
+    "quote": "Success is not about who never fails. It is about who can spring \u2013 or even stagger \u2013 back up.\u201d\u2014 Samantha Powe",
     "author": "Samantha Power"
   },
   {
     "date": "2020-06-23",
-    "quote": "",
+    "quote": "If you\u2019re going through hell, keep going.\u201d\u2014 Winston Churchil",
     "author": "Winston Churchill"
   },
   {
     "date": "2020-06-24",
-    "quote": "",
+    "quote": "It\u2019s better for people to miss you than to have seen too much of you.\u201d\u2014 Edward Norto",
     "author": "Edward Norton"
   },
   {
     "date": "2020-06-25",
-    "quote": "",
+    "quote": "If you look around the room, and you\u2019re the smartest person in the room, you\u2019re in the wrong room.\u201d\u2014 Lorne Michael",
     "author": "Lorne Michaels"
   },
   {
     "date": "2020-06-26",
-    "quote": "",
+    "quote": "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.\u201d\u2014 John Woode",
     "author": "John Wooden"
   },
   {
     "date": "2020-06-27",
-    "quote": "",
+    "quote": "There can be no greater gift than that of giving one\u2019s time and energy to help others without expecting anything in return.\u201d\u2014 Nelson Mandel",
     "author": "Nelson Mandela"
   },
   {
     "date": "2020-06-28",
-    "quote": "",
+    "quote": "Change will not come if we wait for some other person or some other time. We are the ones we\u2019ve been waiting for. We are the change that we seek.\u201d\u2014 Barack Obam",
     "author": "Barack Obama"
   },
   {
     "date": "2020-06-29",
-    "quote": "",
+    "quote": "I always prefer to believe the best of everybody, it saves so much trouble.\u201d\u2014 Rudyard Kiplin",
     "author": "Rudyard Kipling"
   },
   {
     "date": "2020-06-30",
-    "quote": "",
+    "quote": "If you don\u2019t take the time to get really clear about exactly what it is you\u2019re trying to accomplish, then you\u2019re forever doomed to spend your life achieving the goals of those who do.\u201d\u2014 Steve Pavlin",
     "author": "Steve Pavlina"
   },
   {
     "date": "2020-07-01",
-    "quote": "",
+    "quote": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.\u201d\u2014 Laoz",
     "author": "Laozi"
   },
   {
     "date": "2020-07-02",
-    "quote": "",
+    "quote": "I would rather five people knew my work and thought it was good work than five million knew me and were indifferent.\u201d\u2014 Colin Firt",
     "author": "Colin Firth"
   },
   {
     "date": "2020-07-03",
-    "quote": "",
+    "quote": "To bring about change, you must not be afraid to take the first step. We will fail when we fail to try.\u201d\u2014 Rosa Park",
     "author": "Rosa Parks"
   },
   {
     "date": "2020-07-04",
-    "quote": "",
+    "quote": "In the startup world, you\u2019re either a genius or an idiot. You\u2019re never just an ordinary guy trying to get through the day\u201d\u2014 Marc Andreesse",
     "author": "Marc Andreessen"
   },
   {
     "date": "2020-07-05",
-    "quote": "",
+    "quote": "You can\u2019t master your future if you\u2019re still a slave to your past.\u201d\u2014 Rihann",
     "author": "Rihanna"
   },
   {
     "date": "2020-07-06",
-    "quote": "",
+    "quote": "Cutting negative people from my life does not mean I hate them, it simply means I respect me.\u201d\u2014 Marilyn Monro",
     "author": "Marilyn Monroe"
   },
   {
     "date": "2020-07-07",
-    "quote": "",
+    "quote": "I don\u2019t associate with people who blame the world for their problems. You are your problem. You are also your solution.\u201d\u2014 Melissa McCarth",
     "author": "Melissa McCarthy"
   },
   {
     "date": "2020-07-08",
-    "quote": "",
+    "quote": "It\u2019s easy to do nothing, but your heart breaks a little more every time you do.\u201d\u2014 Mark Ruffal",
     "author": "Mark Ruffalo"
   },
   {
     "date": "2020-07-09",
-    "quote": "",
+    "quote": "I feel like if it\u2019s not scaring you, you\u2019re doing it wrong.\u201d\u2014 Anna Kendric",
     "author": "Anna Kendrick"
   },
   {
     "date": "2020-07-10",
-    "quote": "",
+    "quote": "It is never too late, no matter how old you get because anytime or any point in your life you can always have a chance to make a difference. You can always make a change for the better no matter what background you derived from. You can always do your best and be all that you can be because you will always be uniquely you. It is why it is always wise to listen to your eternal heart, your eternal instincts, and what it had always strove for and/or to do because really anybody can make a difference not only in their own lives but in the lives of others. It is never too late to shine; never.\u201d\u2014 George Elio",
     "author": "George Eliot"
   },
   {
     "date": "2020-07-11",
-    "quote": "",
+    "quote": "The world can be better if there\u2019s love, tolerance and humility.\u201d\u2014 Irena Sendle",
     "author": "Irena Sendler"
   },
   {
     "date": "2020-07-12",
-    "quote": "",
+    "quote": "True terror is to wake up one morning and discover that your high school class is running the country.\u201d\u2014 Kurt Vonnegu",
     "author": "Kurt Vonnegut"
   },
   {
     "date": "2020-07-13",
-    "quote": "",
+    "quote": "People who say it cannot be done should not interrupt those who are doing it.\u201d\u2014 George Bernard Sha",
     "author": "George Bernard Shaw"
   },
   {
     "date": "2020-07-14",
-    "quote": "",
+    "quote": "Our heart knows what our mind has forgotten \u2013 it knows the sacred that is within all that exists, and through a depth of feeling we can once again experience this connection, this belonging.\u201d\u2014 Llewellyn Vaughan-Le",
     "author": "Llewellyn Vaughan-Lee"
   },
   {
     "date": "2020-07-15",
-    "quote": "",
+    "quote": "Leadership consists of nothing but taking responsibility for everything that goes wrong and giving your subordinates credit for everything that goes well.\u201d\u2014 Dwight D. Eisenhowe",
     "author": "Dwight D. Eisenhower"
   },
   {
     "date": "2020-07-16",
-    "quote": "",
+    "quote": "There\u2019s no such thing as simple. Simple is hard.\u201d\u2014 Martin Scorses",
     "author": "Martin Scorsese"
   },
   {
     "date": "2020-07-17",
-    "quote": "",
+    "quote": "Either America will destroy ignorance or ignorance will destroy the United States.\u201d\u2014 W. E. B. Du Boi",
     "author": "W. E. B. Du Bois"
   },
   {
     "date": "2020-07-18",
-    "quote": "",
+    "quote": "You were born with everything you need to answer the call of your soul.\u201d\u2014 Marie Forle",
     "author": "Marie Forleo"
   },
   {
     "date": "2020-07-19",
-    "quote": "",
+    "quote": "Don\u2019t waste your time chasing butterflies. Mend your garden, and the butterflies will come.\u201d\u2014 Mario Quintan",
     "author": "Mario Quintana"
   },
   {
     "date": "2020-07-20",
-    "quote": "",
+    "quote": "You don\u2019t drown by falling in the water; you drown by staying there.\u201d\u2014 Edwin Louis Col",
     "author": "Edwin Louis Cole"
   },
   {
     "date": "2020-07-21",
-    "quote": "",
+    "quote": "Entrepreneur is not a job title. It is a state of mind of people who want to alter the future.\u201d\u2014 Guy Kawasak",
     "author": "Guy Kawasaki"
   },
   {
     "date": "2020-07-22",
-    "quote": "",
+    "quote": "If you constantly think of illness, you eventually become ill; if you believe yourself to be beautiful, you become so.\u201d\u2014 Shakti Gawai",
     "author": "Shakti Gawain"
   },
   {
     "date": "2020-07-23",
-    "quote": "",
+    "quote": "If a guy doesn\u2019t like a funny girl, something is wrong with him.\u201d\u2014 Bill Hade",
     "author": "Bill Hader"
   },
   {
     "date": "2020-07-24",
-    "quote": "",
+    "quote": "You build on failure. You use it as a stepping stone. Close the door on the past. You don\u2019t try to forget the mistakes, but you don\u2019t dwell on it. You don\u2019t let it have any of your energy, or any of your time, or any of your space.\u201d\u2014 Johnny Cas",
     "author": "Johnny Cash"
   },
   {
     "date": "2020-07-25",
-    "quote": "",
+    "quote": "Fear is an insidious and deadly thing. It can warp judgment, freeze reflexes, breed mistakes. Worse, it\u2019s contagious.\u201d\u2014 James Stewar",
     "author": "James Stewart"
   },
   {
     "date": "2020-07-26",
-    "quote": "",
+    "quote": "Be so good they can\u2019t ignore you.\u201d\u2014 Steve Marti",
     "author": "Steve Martin"
   },
   {
     "date": "2020-07-27",
-    "quote": "",
+    "quote": "Anti-social behavior is a trait of intelligence in a world full of conformists.\u201d\u2014 Nikola Tesl",
     "author": "Nikola Tesla"
   },
   {
     "date": "2020-07-28",
-    "quote": "",
+    "quote": "Set your goals high, and don\u2019t stop till you get there.\u201d\u2014 Bo Jackso",
     "author": "Bo Jackson"
   },
   {
     "date": "2020-07-29",
-    "quote": "",
+    "quote": "My pain may be the reason for somebody\u2019s laugh. But my laugh must never be the reason for somebody\u2019s pain.\u201d\u2014 Charlie Chapli",
     "author": "Charlie Chaplin"
   },
   {
     "date": "2020-07-30",
-    "quote": "",
+    "quote": "Success, they taught me, is built on the foundation of courage, hard-work and individual responsibility. Despite what some would have us believe, success is not built on resentment and fears.\u201d\u2014 Susana Martine",
     "author": "Susana Martinez"
   },
   {
     "date": "2020-07-31",
-    "quote": "",
+    "quote": "Doubt is a killer. You just have to know who you are and what you stand for.\u201d\u2014 Jennifer Lope",
     "author": "Jennifer Lopez"
   },
   {
     "date": "2020-08-01",
-    "quote": "",
+    "quote": "Never let anyone try and make you into something that you\u2019re not. Remember what it is that you want, and always stay strong in that.\u201d\u2014 Abigail Bresli",
     "author": "Abigail Breslin"
   },
   {
     "date": "2020-08-02",
-    "quote": "",
+    "quote": "Working hard is important. But there is something that matters even more, believing in yourself.\u201d\u2014 Daniel Radcliff",
     "author": "Daniel Radcliffe"
   },
   {
     "date": "2020-08-03",
-    "quote": "",
+    "quote": "If you don\u2019t get out of the box you\u2019ve been raised in, you won\u2019t understand how much bigger the world is.\u201d\u2014 Angelina Joli",
     "author": "Angelina Jolie"
   },
   {
     "date": "2020-08-04",
-    "quote": "",
+    "quote": "Men give me credit for some genius. All the genius I have lies in this; when I have a subject in hand, I study it profoundly. Day and night it is before me. My mind becomes pervaded with it. Then the effort that I have made is what people are pleased to call the fruit of genius. It is the fruit of labor and thought.\u201d\u2014 Alexander Hamilto",
     "author": "Alexander Hamilton"
   },
   {
     "date": "2020-08-05",
-    "quote": "",
+    "quote": "The greatest lesson that I learned in all of this is that you have to start. Start now, start here, and start small. Keep it Simple.\u201d\u2014 Jack Dorse",
     "author": "Jack Dorsey"
   },
   {
     "date": "2020-08-06",
-    "quote": "",
+    "quote": "I am not in competition with anyone but myself. My goal is to improve myself continuously.\u201d\u2014 Bill Gate",
     "author": "Bill Gates"
   },
   {
     "date": "2020-08-07",
-    "quote": "",
+    "quote": "Failure: Is it a limitation? Bad timing? It\u2019s a lot of things. It\u2019s something you can\u2019t be afraid of, because you\u2019ll stop growing. The next step beyond failure could be your biggest success in life.\u201d\u2014 Debbie Alle",
     "author": "Debbie Allen"
   },
   {
     "date": "2020-08-08",
-    "quote": "",
+    "quote": "It\u2019s a good place when all you have is hope and not expectations.\u201d\u2014 Danny Boyl",
     "author": "Danny Boyle"
   },
   {
     "date": "2020-08-09",
-    "quote": "",
+    "quote": "The trouble is not in dying for a friend, but in finding a friend worth dying for.\u201d\u2014 Mark Twai",
     "author": "Mark Twain"
   },
   {
     "date": "2020-08-10",
-    "quote": "",
+    "quote": "Forget about style; worry about results.\u201d\u2014 Bobby Or",
     "author": "Bobby Orr"
   },
   {
     "date": "2020-08-11",
-    "quote": "",
+    "quote": "You have chosen the wrong path if it\u2019s not fun. And you are probably not taking enough risk if it\u2019s not hard and rocky sometimes.\u201d\u2014 Marc Beniof",
     "author": "Marc Benioff"
   },
   {
     "date": "2020-08-12",
-    "quote": "",
+    "quote": "I\u2019m so secretive that when someone asks me, Hey, can you keep a secret? I say, \u2018That\u2019s none of your business.'\u201d\u2014 Demetri Marti",
     "author": "Demetri Martin"
   },
   {
     "date": "2020-08-13",
-    "quote": "",
+    "quote": "The greatest test of courage on earth is to bear defeat without losing heart.\u201d\u2014 Robert Green Ingersol",
     "author": "Robert Green Ingersoll"
   },
   {
     "date": "2020-08-14",
-    "quote": "",
+    "quote": "I don\u2019t think something is a failure if you put your all into it. I\u2019m a big fan of the saying, Nothing beats a failure but a try.\u201d\u2014 Regina Kin",
     "author": "Regina King"
   },
   {
     "date": "2020-08-15",
-    "quote": "",
+    "quote": "There are those that look at things the way they are, and ask why? I dream of things that never were, and ask why not?\u201d\u2014 Robert Kenned",
     "author": "Robert Kennedy"
   },
   {
     "date": "2020-08-16",
-    "quote": "",
+    "quote": "Wanting to be someone else is a waste of who you are\u201d\u2014 Kurt Cobai",
     "author": "Kurt Cobain"
   },
   {
     "date": "2020-08-17",
-    "quote": "",
+    "quote": "If you don\u2019t fall how are you going to know what getting up is like.\u201d\u2014 Stephen Curr",
     "author": "Stephen Curry"
   },
   {
     "date": "2020-08-18",
-    "quote": "",
+    "quote": "Don\u2019t write what you think people want to read. Find your voice and write about what\u2019s in your heart.\u201d\u2014 Quentin Tarantin",
     "author": "Quentin Tarantino"
   },
   {
     "date": "2020-08-19",
-    "quote": "",
+    "quote": "There are two days in the year that we can not do anything, yesterday and tomorrow\u201d\u2014 Mahatma Gandh",
     "author": "Mahatma Gandhi"
   },
   {
     "date": "2020-08-20",
-    "quote": "",
+    "quote": "Too many of us are not living our dreams because we are living our fears.\u201d\u2014 Les Brow",
     "author": "Les Brown"
   },
   {
     "date": "2020-08-21",
-    "quote": "",
+    "quote": "Don\u2019t let life discourage you; everyone who got where he is had to begin where he was.\u201d\u2014 Richard L. Evan",
     "author": "Richard L. Evans"
   },
   {
     "date": "2020-08-22",
-    "quote": "",
+    "quote": "If you know you are going to fail, then fail gloriously.\u201d\u2014 Cate Blanchet",
     "author": "Cate Blanchett"
   },
   {
     "date": "2020-08-23",
-    "quote": "",
+    "quote": "There\u2019s nothing you can do that\u2019s more important than being fulfilled. You become a sign, you become a signal, transparent to transcendence; in this way, you will find, live, and become a realization of your own personal myth.\u201d\u2014 Joseph Campbel",
     "author": "Joseph Campbell"
   },
   {
     "date": "2020-08-24",
-    "quote": "",
+    "quote": "To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.\u201d\u2014 Gilbert K. Chesterto",
     "author": "Gilbert K. Chesterton"
   },
   {
     "date": "2020-08-25",
-    "quote": "",
+    "quote": "Learn to embrace your own unique beauty, celebrate your unique gifts with confidence. Your imperfections are actually a gift.\u201d\u2014 Kerry Washingto",
     "author": "Kerry Washington"
   },
   {
     "date": "2020-08-26",
-    "quote": "",
+    "quote": "Whatever you do, do it completely. Don\u2019t do it half-arsed. Do it more than anybody else would.\u201d\u2014 Christian Bal",
     "author": "Christian Bale"
   },
   {
     "date": "2020-08-27",
-    "quote": "",
+    "quote": "I\u2019ve always been about honesty, whether on the radio, whether I did a movie, whether I wrote a book. As long as you\u2019re honest, you don\u2019t lose your edge.\u201d\u2014 Howard Ster",
     "author": "Howard Stern"
   },
   {
     "date": "2020-08-28",
-    "quote": "",
+    "quote": "A wise man can play the part of a clown, but a clown can\u2019t play the part of a wise man.\u201d\u2014 Malcolm ",
     "author": "Malcolm X"
   },
   {
     "date": "2020-08-29",
-    "quote": "",
+    "quote": "Promise me you\u2019ll always remember: You\u2019re braver than you believe, and stronger than you seem, and smarter than you think.\u201d\u2014 A. A. Miln",
     "author": "A. A. Milne"
   },
   {
     "date": "2020-08-30",
-    "quote": "",
+    "quote": "Only the weak are cruel. Gentleness can only be expected from the strong.\u201d\u2014 Leo Buscagli",
     "author": "Leo Buscaglia"
   },
   {
     "date": "2020-08-31",
-    "quote": "",
+    "quote": "You can\u2019t always get what you want, but if you try sometimes, you might find, you get what you need.\u201d\u2014 Mick Jagge",
     "author": "Mick Jagger"
   },
   {
     "date": "2020-09-01",
-    "quote": "",
+    "quote": "Live your life as an Exclamation rather than an Explanation\u201d\u2014 Isaac Newto",
     "author": "Isaac Newton"
   },
   {
     "date": "2020-09-02",
-    "quote": "",
+    "quote": "Don\u2019t believe everything you think. You cannot be trusted to tell yourself the truth. Stay in The Word.\u201d\u2014 Jerry Bridge",
     "author": "Jerry Bridges"
   },
   {
     "date": "2020-09-03",
-    "quote": "",
+    "quote": "Give me a place to stand, and a lever long enough, and I will move the world.\u201d\u2014 Archimede",
     "author": "Archimedes"
   },
   {
     "date": "2020-09-04",
-    "quote": "",
+    "quote": "Normal is not something to aspire to, it\u2019s something to get away from.\u201d\u2014 Jodie Foste",
     "author": "Jodie Foster"
   },
   {
     "date": "2020-09-05",
-    "quote": "",
+    "quote": "Once you replace negative thoughts with positive ones, you\u2019ll start having positive results.\u201d\u2014 Willie Nelso",
     "author": "Willie Nelson"
   },
   {
     "date": "2020-09-06",
-    "quote": "",
+    "quote": "The day I stop giving is the day I stop receiving. The day I stop learning is the day I stop growing. You miss 100% of the shots you don\u2019t take.\u201d\u2014 Wayne Gretzk",
     "author": "Wayne Gretzky"
   },
   {
     "date": "2020-09-07",
-    "quote": "",
+    "quote": "Well done is better than well said.\u201d\u2014 Benjamin Frankli",
     "author": "Benjamin Franklin"
   },
   {
     "date": "2020-09-08",
-    "quote": "",
+    "quote": "All great ideas start as weird ideas. What now seems obvious, early on, is not obvious to anybody.\u201d\u2014 Steve Cas",
     "author": "Steve Case"
   },
   {
     "date": "2020-09-09",
-    "quote": "",
+    "quote": "The one thing you\u2019re most reluctant to tell. That\u2019s where the comedy is.\u201d\u2014 Mike Birbigli",
     "author": "Mike Birbiglia"
   },
   {
     "date": "2020-09-10",
-    "quote": "",
+    "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.\u201d\u2014 Pablo Picass",
     "author": "Pablo Picasso"
   },
   {
     "date": "2020-09-11",
-    "quote": "",
+    "quote": "The important word there is inspire. The key difference between managers and leaders is that managers tell people what to do, while leaders inspire them to do it. Inspiration comes from three things: clarity of one\u2019s vision, courage of their conviction and the ability to effectively communicate both of those things.\u201d\u2014 Jeff Weine",
     "author": "Jeff Weiner"
   },
   {
     "date": "2020-09-12",
-    "quote": "",
+    "quote": "What good is success if you\u2019re not willing to share it?\u201d\u2014 Karl Malon",
     "author": "Karl Malone"
   },
   {
     "date": "2020-09-13",
-    "quote": "",
+    "quote": "I really think a champion is defined not by their wins but by how they can recover when they fall\u201d\u2014 Serena William",
     "author": "Serena Williams"
   },
   {
     "date": "2020-09-14",
-    "quote": "",
+    "quote": "Sometimes all you need is 20 seconds of insane courage\u201d\u2014 Matt Damo",
     "author": "Matt Damon"
   },
   {
     "date": "2020-09-15",
-    "quote": "",
+    "quote": "The things that scare you only make you better and stronger.\u201d\u2014 Octavia Spence",
     "author": "Octavia Spencer"
   },
   {
     "date": "2020-09-16",
-    "quote": "",
+    "quote": "Nothing great was ever achieved without enthusiasm.\u201d\u2014 Ralph Waldo Emerso",
     "author": "Ralph Waldo Emerson"
   },
   {
     "date": "2020-09-17",
-    "quote": "",
+    "quote": "I always tried to turn every disaster into an opportunity.\u201d\u2014 John D. Rockefelle",
     "author": "John D. Rockefeller"
   },
   {
     "date": "2020-09-18",
-    "quote": "",
+    "quote": "Beauty begins the moment you decide to be yourself.\u201d\u2014 Coco Chane",
     "author": "Coco Chanel"
   },
   {
     "date": "2020-09-19",
-    "quote": "",
+    "quote": "Criticism is something we can avoid easily by saying nothing, doing nothing, and being nothing.\u201d\u2014 Aristotl",
     "author": "Aristotle"
   },
   {
     "date": "2020-09-20",
-    "quote": "",
+    "quote": "My father gave me the greatest gift anyone could give another person, he believed in me.\u201d\u2014 Jim Valvan",
     "author": "Jim Valvano"
   },
   {
     "date": "2020-09-21",
-    "quote": "",
+    "quote": "Life doesn\u2019t run away from nobody. Life runs at people.\u201d\u2014 Joe Frazie",
     "author": "Joe Frazier"
   },
   {
     "date": "2020-09-22",
-    "quote": "",
+    "quote": "When you are not willing to fully receive, you are training the universe not to give to you! It\u2019s simple: if you aren\u2019t willing to receive your share, it will go to someone else who is.\u201d\u2014 T. Harv Eke",
     "author": "T. Harv Eker"
   },
   {
     "date": "2020-09-23",
-    "quote": "",
+    "quote": "Average talent, plus hard work and dedication, will always beat talent by itself.\u201d\u2014 Clinton Anderso",
     "author": "Clinton Anderson"
   },
   {
     "date": "2020-09-24",
-    "quote": "",
+    "quote": "Economics is like the Dutch language \u2013 I\u2019m told it makes sense, but I have my doubts.\u201d\u2014 John Olive",
     "author": "John Oliver"
   },
   {
     "date": "2020-09-25",
-    "quote": "",
+    "quote": "You are a Universe of Universes And your Soul a source of Songs.\u201d\u2014 Ruben Dari",
     "author": "Ruben Dario"
   },
   {
     "date": "2020-09-26",
-    "quote": "",
+    "quote": "When the whole world is silent, even one voice becomes powerful.\u201d\u2014 Malala Yousafza",
     "author": "Malala Yousafzai"
   },
   {
     "date": "2020-09-27",
-    "quote": "",
+    "quote": "Failure is a badge of honor. It means you risked failure. And if you don\u2019t risk failure, you\u2019re never going to do anything that\u2019s different from what you\u2019ve already done or what somebody else has done.\u201d\u2014 Charlie Kaufma",
     "author": "Charlie Kaufman"
   },
   {
     "date": "2020-09-28",
-    "quote": "",
+    "quote": "Do as much homework as you can. Learn everybody\u2019s job and don\u2019t just settle.\u201d\u2014 Michael B. Jorda",
     "author": "Michael B. Jordan"
   },
   {
     "date": "2020-09-29",
-    "quote": "",
+    "quote": "The essence of strategy is choosing what not to do.\u201d\u2014 Michael Porte",
     "author": "Michael Porter"
   },
   {
     "date": "2020-09-30",
-    "quote": "",
+    "quote": "Connect deeply with others. Our humanity is the one thing that we all have in common.\u201d\u2014 Melinda Gate",
     "author": "Melinda Gates"
   },
   {
     "date": "2020-10-01",
-    "quote": "",
+    "quote": "Your mind will give back to you exactly what you put into it.\u201d\u2014 James Joyc",
     "author": "James Joyce"
   },
   {
     "date": "2020-10-02",
-    "quote": "",
+    "quote": "God doesn\u2019t require us to succeed, he only requires that you try.\u201d\u2014 Mother Teres",
     "author": "Mother Teresa"
   },
   {
     "date": "2020-10-03",
-    "quote": "",
+    "quote": "Pressure is a privilege \u2013 it only comes to those who earn it.\u201d\u2014 Billie Jean Kin",
     "author": "Billie Jean King"
   },
   {
     "date": "2020-10-04",
-    "quote": "",
+    "quote": "We\u2019re dead as a species if we don\u2019t tell stories, because then we don\u2019t know who we are.\u201d\u2014 Alan Rickma",
     "author": "Alan Rickman"
   },
   {
     "date": "2020-10-05",
-    "quote": "",
+    "quote": "Then, one day, when you least expect it, the great adventure finds you.\u201d\u2014 Ewan McGrego",
     "author": "Ewan McGregor"
   },
   {
     "date": "2020-10-06",
-    "quote": "",
+    "quote": "Keep your head up in failure and your head down in success.\u201d\u2014 Jerry Seinfel",
     "author": "Jerry Seinfeld"
   },
   {
     "date": "2020-10-07",
-    "quote": "",
+    "quote": "The best investment you can make, is an investment in yourself\u2026 The more you learn, the more you\u2019ll earn.\u201d\u2014 Warren Buffet",
     "author": "Warren Buffett"
   },
   {
     "date": "2020-10-08",
-    "quote": "",
+    "quote": "No one has ever become poor by giving.\u201d\u2014 Anne Fran",
     "author": "Anne Frank"
   },
   {
     "date": "2020-10-09",
-    "quote": "",
+    "quote": "The man who moves a mountain begins by carrying away small stones.\u201d\u2014 Confuciu",
     "author": "Confucius"
   },
   {
     "date": "2020-10-10",
-    "quote": "",
+    "quote": "Failure is sometimes the best option if you view the process of entrepreneurship as a lifelong journey.\u201d\u2014 Brad Fel",
     "author": "Brad Feld"
   },
   {
     "date": "2020-10-11",
-    "quote": "",
+    "quote": "When 99% of people doubt your idea, you\u2019re either gravely wrong or about to make history.\u201d\u2014 Scott Belsk",
     "author": "Scott Belsky"
   },
   {
     "date": "2020-10-12",
-    "quote": "",
+    "quote": "You do this because you like it, you think what you\u2019re making is beautiful. And if you think it\u2019s beautiful, maybe they think it\u2019s beautiful.\u201d\u2014 Lou Ree",
     "author": "Lou Reed"
   },
   {
     "date": "2020-10-13",
-    "quote": "",
+    "quote": "If intimidation is your game plan, I hope you have a better one.\u201d\u2014 Colin Kaepernic",
     "author": "Colin Kaepernick"
   },
   {
     "date": "2020-10-14",
-    "quote": "",
+    "quote": "Hope is the thing with feathers that perches in the soul \u2013 and sings the tunes without the words \u2013 and never stops at all.\u201d\u2014 Emily Dickinso",
     "author": "Emily Dickinson"
   },
   {
     "date": "2020-10-15",
-    "quote": "",
+    "quote": "Gratitude is not only the greatest of virtues, but the parent of all the others.\u201d\u2014 Marcus Tullius Cicer",
     "author": "Marcus Tullius Cicero"
   },
   {
     "date": "2020-10-16",
-    "quote": "",
+    "quote": "Anyone can see the adversity in a difficult situation, but it takes a stronger person to see the opportunity.\u201d\u2014 Drew Bree",
     "author": "Drew Brees"
   },
   {
     "date": "2020-10-17",
-    "quote": "",
+    "quote": "How do we change the world? One random act of kindness at a time.\u201d\u2014 Morgan Freema",
     "author": "Morgan Freeman"
   },
   {
     "date": "2020-10-18",
-    "quote": "",
+    "quote": "Education is not the filling of a pail, but the lighting of a fire.\u201d\u2014 William Butler Yeat",
     "author": "William Butler Yeats"
   },
   {
     "date": "2020-10-19",
-    "quote": "",
+    "quote": "No matter what people tell you, words and ideas can change the world.\u201d\u2014 Robin William",
     "author": "Robin Williams"
   },
   {
     "date": "2020-10-20",
-    "quote": "",
+    "quote": "You don\u2019t become what you want, you become what you believe.\u201d\u2014 Oprah Winfre",
     "author": "Oprah Winfrey"
   },
   {
     "date": "2020-10-21",
-    "quote": "",
+    "quote": "You\u2019ve got to be pretty confident that you\u2019re good. If I do a show and for whatever reason no one laughs, I\u2019ll be like, \u2018Wow, those people are weird\u2019.\u201d\u2014 Aziz Ansar",
     "author": "Aziz Ansari"
   },
   {
     "date": "2020-10-22",
-    "quote": "",
+    "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.\u201d\u2014 Michelangel",
     "author": "Michelangelo"
   },
   {
     "date": "2020-10-23",
-    "quote": "",
+    "quote": "Sometimes you have to wander a bit, and do what you don\u2019t want to in order to figure out what it is you\u2019re supposed to do.\u201d\u2014 Larry Davi",
     "author": "Larry David"
   },
   {
     "date": "2020-10-24",
-    "quote": "",
+    "quote": "Before you can make a dream come true, you must first have one.\u201d\u2014 Ronald McNai",
     "author": "Ronald McNair"
   },
   {
     "date": "2020-10-25",
-    "quote": "",
+    "quote": "You have to leave the city of your comfort and go into the wilderness of your intuition. What you\u2019ll discover will be wonderful. What you\u2019ll discover is yourself.\u201d\u2014 Alan Ald",
     "author": "Alan Alda"
   },
   {
     "date": "2020-10-26",
-    "quote": "",
+    "quote": "With everything that has happened to you, you can either feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing. You get to choose.\u201d\u2014 Wayne Dye",
     "author": "Wayne Dyer"
   },
   {
     "date": "2020-10-27",
-    "quote": "",
+    "quote": "If everybody loves you, something is wrong. Find at least one enemy to keep you alert.\u201d\u2014 Paulo Coelh",
     "author": "Paulo Coelho"
   },
   {
     "date": "2020-10-28",
-    "quote": "",
+    "quote": "Don\u2019t aspire to make a living, aspire to make a difference.\u201d\u2014 Denzel Washingto",
     "author": "Denzel Washington"
   },
   {
     "date": "2020-10-29",
-    "quote": "",
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.\u201d\u2014 Stephen Cove",
     "author": "Stephen Covey"
   },
   {
     "date": "2020-10-30",
-    "quote": "",
+    "quote": "Always the aim for me is making people feel like they are not alone. That\u2019s just the greatest feeling.\u201d\u2014 Zooey Deschane",
     "author": "Zooey Deschanel"
   },
   {
     "date": "2020-10-31",
-    "quote": "",
+    "quote": "Only eyes washed by tears can see clearly.\u201d\u2014 Louis Man",
     "author": "Louis Mann"
   },
   {
     "date": "2020-11-01",
-    "quote": "",
+    "quote": "Every time you pick up your guitar to play, play as if it\u2019s the last time.\u201d\u2014 Eric Clapto",
     "author": "Eric Clapton"
   },
   {
     "date": "2020-11-02",
-    "quote": "",
+    "quote": "You can\u2019t be afraid of what people are going to say, because you\u2019re never going to make everyone happy.\u201d\u2014 Selena Gome",
     "author": "Selena Gomez"
   },
   {
     "date": "2020-11-03",
-    "quote": "",
+    "quote": "Once you\u2019ve accepted your flaws, no one can use them against you.\u201d\u2014 George R. R. Marti",
     "author": "George R. R. Martin"
   },
   {
     "date": "2020-11-04",
-    "quote": "",
+    "quote": "If someone ever says you\u2019re weird, say thank you.\u201d\u2014 Ellen DeGenere",
     "author": "Ellen DeGeneres"
   },
   {
     "date": "2020-11-05",
-    "quote": "",
+    "quote": "There is overwhelming evidence that the higher the level of self-esteem, the more likely one will be to treat others with respect, kindness, and generosity.\u201d\u2014 Nathaniel Brande",
     "author": "Nathaniel Branden"
   },
   {
     "date": "2020-11-06",
-    "quote": "",
+    "quote": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.\u201d\u2014 Gautama Buddh",
     "author": "Gautama Buddha"
   },
   {
     "date": "2020-11-07",
-    "quote": "",
+    "quote": "You can\u2019t fly unless you let yourself fall\u201d\u2014 Justin Biebe",
     "author": "Justin Bieber"
   },
   {
     "date": "2020-11-08",
-    "quote": "",
+    "quote": "When I\u2019m on that field, I give it everything I have, and when I come off, I\u2019m a mom. As tired and exhausting as it is, it\u2019s about coming back, even after double days, and still being able to enjoy the kids.\u201d\u2014 Christie Rampon",
     "author": "Christie Rampone"
   },
   {
     "date": "2020-11-09",
-    "quote": "",
+    "quote": "Never burn bridges. Today\u2019s junior jerk, tomorrow\u2019s senior partner.\u201d\u2014 Sigourney Weave",
     "author": "Sigourney Weaver"
   },
   {
     "date": "2020-11-10",
-    "quote": "",
+    "quote": "You don\u2019t have to be a genius or a visionary or even a college graduate to be successful. You just need a framework and a dream.\u201d\u2014 Michael Del",
     "author": "Michael Dell"
   },
   {
     "date": "2020-11-11",
-    "quote": "",
+    "quote": "There are moments that have a certain flavor of eternity\u201d\u2014 Marc Lev",
     "author": "Marc Levy"
   },
   {
     "date": "2020-11-12",
-    "quote": "",
+    "quote": "Failure is not the opposite of success; it\u2019s part of success.\u201d\u2014 Arianna Huffingto",
     "author": "Arianna Huffington"
   },
   {
     "date": "2020-11-13",
-    "quote": "",
+    "quote": "I\u2019ve missed more than 9000 shots in my career. I\u2019ve lost almost 300 games. 26 times, I\u2019ve been trusted to take the game winning shot and missed. I\u2019ve failed over and over and over again in my life. And that is why I succeed.\u201d\u2014 Michael Jorda",
     "author": "Michael Jordan"
   },
   {
     "date": "2020-11-14",
-    "quote": "",
+    "quote": "Comedy is the only weapon I have to battle totalitarianism.\u201d\u2014 Margaret Ch",
     "author": "Margaret Cho"
   },
   {
     "date": "2020-11-15",
-    "quote": "",
+    "quote": "When you meet somebody for the first time, you\u2019re not meeting them. You\u2019re meeting their representative.\u201d\u2014 Chris Roc",
     "author": "Chris Rock"
   },
   {
     "date": "2020-11-16",
-    "quote": "",
+    "quote": "The mark of greatness is when everything before you is obsolete, and everything after you bears your mark.\u201d\u2014 Dave Chappell",
     "author": "Dave Chappelle"
   },
   {
     "date": "2020-11-17",
-    "quote": "",
+    "quote": "Instead of wondering when your next vacation is, maybe you should set up a life you don\u2019t need to escape from.\u201d\u2014 Seth Godi",
     "author": "Seth Godin"
   },
   {
     "date": "2020-11-18",
-    "quote": "",
+    "quote": "Greatness is a lot of small things done well. Day after day, workout after workout, obedience after obedience, day after day.\u201d\u2014 Ray Lewi",
     "author": "Ray Lewis"
   },
   {
     "date": "2020-11-19",
-    "quote": "",
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.\u201d\u2014 Marie Curi",
     "author": "Marie Curie"
   },
   {
     "date": "2020-11-20",
-    "quote": "",
+    "quote": "If you obey all the rules you miss all the fun.\u201d\u2014 Katharine Hepbur",
     "author": "Katharine Hepburn"
   },
   {
     "date": "2020-11-21",
-    "quote": "",
+    "quote": "At the end of your life, you will never regret not having passed one more test, not winning one more verdict or not closing one more deal. You will regret time not spent with a husband, a friend, a child, or a parent.\u201d\u2014 Barbara Bus",
     "author": "Barbara Bush"
   },
   {
     "date": "2020-11-22",
-    "quote": "",
+    "quote": "A mind is like a parachute. It doesn\u2019t work if it is not open.\u201d\u2014 Frank Zapp",
     "author": "Frank Zappa"
   },
   {
     "date": "2020-11-23",
-    "quote": "",
+    "quote": "From what we get, we can make a living; what we give, however, makes a life.\u201d\u2014 Arthur Ash",
     "author": "Arthur Ashe"
   },
   {
     "date": "2020-11-24",
-    "quote": "",
+    "quote": "I stay fat because it just wouldn\u2019t be fair to all the thin people if I were this good-looking, intelligent, funny, and thin. It\u2019s a public service really.\u201d\u2014 Rebel Wilso",
     "author": "Rebel Wilson"
   },
   {
     "date": "2020-11-25",
-    "quote": "",
+    "quote": "I come from a hut, from a hut I went to the projects, from the projects I went to a mansion so you out there you have ABSOLUTLY NO EXCUSE!\u201d\u2014 Wyclef Jea",
     "author": "Wyclef Jean"
   },
   {
     "date": "2020-11-26",
-    "quote": "",
+    "quote": "Never fear, inevitably we shall have our years of failure, and when they arrive, we must reveal tolerance and sanity. No matter the days of anxiety that come our way, we shall emerge stronger because of the trials to be overcome.\u201d\u2014 Bill Strut",
     "author": "Bill Struth"
   },
   {
     "date": "2020-11-27",
-    "quote": "",
+    "quote": "I am Superman. And the only thing that can kill Superman is Kryptonite. And Kryptonite doesn\u2019t exist.\u201d\u2014 Shaquille O\u2019Nea",
     "author": "Shaquille O\u2019Neal"
   },
   {
     "date": "2020-11-28",
-    "quote": "",
+    "quote": "How old would you be if you didn\u2019t know how old you are?\u201d\u2014 Satchel Paig",
     "author": "Satchel Paige"
   },
   {
     "date": "2020-11-29",
-    "quote": "",
+    "quote": "It\u2019s not good to be lit all the time and have no clear-headed thoughts.\u201d\u2014 Pete Davidso",
     "author": "Pete Davidson"
   },
   {
     "date": "2020-11-30",
-    "quote": "",
+    "quote": "People have confused playing devil\u2019s advocate with being intelligent.\u201d\u2014 Cecily Stron",
     "author": "Cecily Strong"
   },
   {
     "date": "2020-12-01",
-    "quote": "",
+    "quote": "When you struggle with a problem, that\u2019s when you understand it.\u201d\u2014 Elon Mus",
     "author": "Elon Musk"
   },
   {
     "date": "2020-12-02",
-    "quote": "",
+    "quote": "Even when I was close to defeat I rose to my feet\u201d\u2014 Dr. Dr",
     "author": "Dr. Dre"
   },
   {
     "date": "2020-12-03",
-    "quote": "",
+    "quote": "Innovation is serendipity, so you don\u2019t know what people will make.\u201d\u2014 Tim Berners-Le",
     "author": "Tim Berners-Lee"
   },
   {
     "date": "2020-12-04",
-    "quote": "",
+    "quote": "There are three kinds of men. The one that learns by reading. The few who learn by observation. The rest of them have to pee on the electric fence for themselves.\u201d\u2014 Will Roger",
     "author": "Will Rogers"
   },
   {
     "date": "2020-12-05",
-    "quote": "",
+    "quote": "I practice my saxophone three hours a day. I\u2019m not saying I\u2019m particularly special, but if you do something three hours a day for forty years, you get pretty good at it.\u201d\u2014 Kenny ",
     "author": "Kenny G"
   },
   {
     "date": "2020-12-06",
-    "quote": "",
+    "quote": "The impossible exists only until we find a way to make it possible\u201d\u2014 Mike Hor",
     "author": "Mike Horn"
   },
   {
     "date": "2020-12-07",
-    "quote": "",
+    "quote": "There is no element of genius without some form of madness.\u201d\u2014 Leonardo DiCapri",
     "author": "Leonardo DiCaprio"
   },
   {
     "date": "2020-12-08",
-    "quote": "",
+    "quote": "I wanted a perfect ending. Now I\u2019ve learned, the hard way, that some poems don\u2019t rhyme, and some stories don\u2019t have a clear beginning, middle and end.\u201d\u2014 Gilda Radne",
     "author": "Gilda Radner"
   },
   {
     "date": "2020-12-09",
-    "quote": "",
+    "quote": "Silence \u2013 not dissent \u2013 is the one answer that leaders should refuse to accept.\u201d\u2014 Warren ",
     "author": "Warren G"
   },
   {
     "date": "2020-12-10",
-    "quote": "",
+    "quote": "You pray for the hungry. Then you feed them. That\u2019s how prayer works.\u201d\u2014 Pope Franci",
     "author": "Pope Francis"
   },
   {
     "date": "2020-12-11",
-    "quote": "",
+    "quote": "Ignore your mistakes. The number one thing to worry about is: Am I doing what I\u2019m good at?\u201d\u2014 Max Levchi",
     "author": "Max Levchin"
   },
   {
     "date": "2020-12-12",
-    "quote": "",
+    "quote": "In the hands of a great poet, words have ways of affecting us in ways we don\u2019t understand.\u201d\u2014 Kenneth Branag",
     "author": "Kenneth Branagh"
   },
   {
     "date": "2020-12-13",
-    "quote": "",
+    "quote": "Sometimes, carrying on, just carrying on, is the superhuman achievement.\u201d\u2014 Albert Camu",
     "author": "Albert Camus"
   },
   {
     "date": "2020-12-14",
-    "quote": "",
+    "quote": "If you want to change who you are, you have to change what you do.\u201d\u2014 Jude La",
     "author": "Jude Law"
   },
   {
     "date": "2020-12-15",
-    "quote": "",
+    "quote": "The only thing worse than being blind is having sight but no vision.\u201d\u2014 Helen Kelle",
     "author": "Helen Keller"
   },
   {
     "date": "2020-12-16",
-    "quote": "",
+    "quote": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.\u201d\u2014 Saint Augustin",
     "author": "Saint Augustine"
   },
   {
     "date": "2020-12-17",
-    "quote": "",
+    "quote": "If you work hard, you have a better chance of producing something that you\u2019re proud of. If you don\u2019t, you won\u2019t. It\u2019s really simple.\u201d\u2014 Bryan Cransto",
     "author": "Bryan Cranston"
   },
   {
     "date": "2020-12-18",
-    "quote": "",
+    "quote": "When you value people, you give them freedom.\u201d\u2014 Martha McSall",
     "author": "Martha McSally"
   },
   {
     "date": "2020-12-19",
-    "quote": "",
+    "quote": "You know what lasts longer than beauty? Being smart.\u201d\u2014 Gabrielle Unio",
     "author": "Gabrielle Union"
   },
   {
     "date": "2020-12-20",
-    "quote": "",
+    "quote": "Don\u2019t worry about failure; you only have to be right once.\u201d\u2014 Drew Housto",
     "author": "Drew Houston"
   },
   {
     "date": "2020-12-21",
-    "quote": "",
+    "quote": "I\u2019ll tell you what bravery really is. Bravery is just determination to do a job that you know has to be done.\u201d\u2014 Audie Murph",
     "author": "Audie Murphy"
   },
   {
     "date": "2020-12-22",
-    "quote": "",
+    "quote": "The most successful people reach the top not because they are free of limitations, but because they act in spite of their limitations.\u201d\u2014 Michael K. William",
     "author": "Michael K. Williams"
   },
   {
     "date": "2020-12-23",
-    "quote": "",
+    "quote": "Money is plentiful for those who understand the simple laws which govern its acquisition.\u201d\u2014 George S. Claso",
     "author": "George S. Clason"
   },
   {
     "date": "2020-12-24",
-    "quote": "",
+    "quote": "Sports for me is when a guy walks off the court, and you really can\u2019t tell whether he won or lost, when he carries himself with pride either way.\u201d\u2014 Jim Courie",
     "author": "Jim Courier"
   },
   {
     "date": "2020-12-25",
-    "quote": "",
+    "quote": "I hate that word \u2014 \u2018lucky.\u2019 It cheapens a lot of hard work\u201d\u2014 Peter Dinklag",
     "author": "Peter Dinklage"
   },
   {
     "date": "2020-12-26",
-    "quote": "",
+    "quote": "Better to be king for a night than a schmuck for a lifetime.\u201d\u2014 Robert De Nir",
     "author": "Robert De Niro"
   },
   {
     "date": "2020-12-27",
-    "quote": "",
+    "quote": "If you give up at the first sign of struggle, you\u2019re really not ready to be successful.\u201d\u2014 Kevin Har",
     "author": "Kevin Hart"
   },
   {
     "date": "2020-12-28",
-    "quote": "",
+    "quote": "You can\u2019t achieve anything in life without a small amount of sacrifice.\u201d\u2014 Shakir",
     "author": "Shakira"
   },
   {
     "date": "2020-12-29",
-    "quote": "",
+    "quote": "My parents are very conservative. They taught me the value of hard work \u2013 dont depend on other people, do it yourself.\u201d\u2014 Kyrsten Sinem",
     "author": "Kyrsten Sinema"
   },
   {
     "date": "2020-12-30",
-    "quote": "",
+    "quote": "Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly and applying the wrong remedies.\u201d\u2014 Groucho Mar",
     "author": "Groucho Marx"
   },
   {
     "date": "2020-12-31",
-    "quote": "",
+    "quote": "It\u2019s not in the dreaming, it\u2019s in the doing.\u201d\u2014 Mark Cuba",
     "author": "Mark Cuban"
   },
   {
