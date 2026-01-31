@@ -164,3 +164,6 @@ cython_debug/
 .DS_Store
 *.csv
 /html files
+quotes_*.json
+log.md
+images/screenshot*.png

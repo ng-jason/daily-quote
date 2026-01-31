@@ -1,0 +1,10 @@
+[project]
+name = "daily-quote"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "bs4>=0.0.2",
+    "ipykernel>=6.31.0",
+]
