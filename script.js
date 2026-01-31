@@ -38,7 +38,7 @@ fetch('quotes.json')
             const authorElement = document.getElementById('author');
             const dateElement = document.getElementById('date');
             // update the quote and author texts
-            [quoteElement.innerHTML, authorElement.textContent] = getQuote(date);
+            [quoteElement.innerHTML, authorElement.innerHTML] = getQuote(date);
             // update the date
             const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
             dateElement.textContent = new Date(date).toLocaleDateString('en-US', options);
